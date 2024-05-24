@@ -1,0 +1,5 @@
+{
+  "weekly_newsletter.html": {
+    "prompt": "Je dois rédiger ma newsletter astrologique (fr) pour le signe {{sign}} tu vas me rédiger trois paragraphes dynamique d'environ 80 mots, pertinent et qui prend au tripes le lecteur (ou la lectrice) sur les thématiques amour; richesse & opportunités; et santé. Chaque paragraphe contient environ 5 emojis ainsi que quelques mots important entourés par des balises html <strong> . Ta réponse est un dictionnaire python au format : {'love_txt': paragraphe, 'money_txt': paragraphe, 'health_txt': paragraphe}"
+  }
+}
