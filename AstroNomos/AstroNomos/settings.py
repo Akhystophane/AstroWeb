@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-
+import logging
 import certifi
 import django_on_heroku
 import dj_database_url
@@ -18,7 +18,7 @@ SECRET_KEY = 'skf&5(@%=bi3r#jgeq8r7_x=c_t8%%tz6zxa)whqo-o8sn=t&i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'TRUE'
 
-ALLOWED_HOSTS = ['hidden-lowlands-42657.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['hidden-lowlands-42657.herokuapp.com', 'localhost', '127.0.0.1', 'astro-nomos.com']
 
 
 # Application definition
@@ -126,3 +126,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Configure requests to use certifi certificates
 os.environ['REQUESTS_CA_BUNDLE'] = certifi.where()
 os.environ['SSL_CERT_FILE'] = certifi.where()
+
+# Configure logging
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
+logger.debug("Settings module loaded.")
