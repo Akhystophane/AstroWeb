@@ -1,6 +1,6 @@
 Django~=4.2.13
 gunicorn
-django-heroku
+django-on-heroku
 psycopg2-binary
 whitenoise
 
