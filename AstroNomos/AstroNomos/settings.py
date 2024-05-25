@@ -1,5 +1,7 @@
 import os
 from pathlib import Path
+
+import certifi
 import django_on_heroku
 import dj_database_url
 
@@ -117,4 +119,9 @@ django_on_heroku.settings(locals())
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
+
+
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Configure requests to use certifi certificates
+os.environ['REQUESTS_CA_BUNDLE'] = certifi.where()
