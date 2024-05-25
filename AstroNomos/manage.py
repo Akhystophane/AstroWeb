@@ -2,10 +2,13 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+import certifi
 
 
 def main():
     """Run administrative tasks."""
+    # Configurer SSL pour utiliser les certificats certifi
+    os.environ['SSL_CERT_FILE'] = certifi.where()
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'AstroNomos.settings')
     try:
         from django.core.management import execute_from_command_line
