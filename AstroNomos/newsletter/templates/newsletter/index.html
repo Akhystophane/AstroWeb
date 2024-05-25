@@ -8,7 +8,7 @@
 <body>
     <h1>Bienvenue à la page d'accueil de la newsletter!</h1>
     <p>Abonnez-vous à notre newsletter pour recevoir les dernières nouvelles.</p>
-    <form method="post">
+    <form method="POST">
         {% csrf_token %}
         {{ form }}
         <input type="submit">
