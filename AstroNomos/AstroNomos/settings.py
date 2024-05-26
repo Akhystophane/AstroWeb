@@ -42,6 +42,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'newsletter.middleware.RedirectToWwwMiddleware',
 ]
 
 ROOT_URLCONF = 'AstroNomos.urls'
