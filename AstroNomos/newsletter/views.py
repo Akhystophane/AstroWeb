@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from .forms import CustomerForm
+from .forms import HoroscopeForm
+
 def index(request):
     form = CustomerForm()
 
@@ -10,7 +12,17 @@ def index(request):
             form.save()
 
     context = {'form': form}
-    return render(request, 'newsletter/index.html', context)
+    return render(request, 'horoscope.html', context)
+
+def horoscope(request):
+    if request.method == 'POST':
+        form = HoroscopeForm(request.POST)
+        if form.is_valid():
+            form.save()
+    else:
+        form = HoroscopeForm()
+
+    return render(request, 'newsletter/index.html', {'form': form})
 
 def subscribe(request):
     return HttpResponse("Page d'abonnement à la newsletter.")

@@ -21,5 +21,5 @@ from newsletter import views as newsletter_views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('newsletter/', include('newsletter.urls')),
-    path('', newsletter_views.index, name='home'),
+    path('', newsletter_views.horoscope, name='home'),
 ]
