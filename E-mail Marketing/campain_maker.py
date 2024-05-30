@@ -1,6 +1,7 @@
 import os
 from html_maker import HtmlFile
 import mailerlite as MailerLite
+from Suscribers import char_exists
 
 
 
@@ -9,10 +10,29 @@ client = MailerLite.Client({
   'api_key': api_key
 })
 
-astro_signs = [
-    ["Bélier", "♈️"],
-    ["Taureau", "♉️"],
+
+astro_signs = []
+signs = [
+    # ["aries", "Bélier", "♈"],
+    # ["taurus", "Taureau", "♉"],
+    # ["gemini", "Gémeaux", "♊"],
+    # ["cancer", "Cancer", "♋"],
+    # ["leo", "Lion", "♌"],
+    # ["virgo", "Vierge", "♍"],
+    # ["libra", "Balance", "♎"],
+    # ["scorpio", "Scorpion", "♏"],
+    # ["capricorn", "Capricorne", "♑"],
+    # ["aquarius", "Verseau", "♒"],
+    # ["pisces", "Poisson", "♓"],
+    ["sagittarius", "Sagittaire", "♐"],
 ]
+data = client.subscribers.list()
+for sign in signs:
+    if char_exists(sign[0],data, 'sign', fields=True):
+        astro_signs.append([sign[1], sign[2]])
+
+print(astro_signs)
+
 htmls = []
 for astro_sign in astro_signs:
 

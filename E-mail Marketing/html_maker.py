@@ -83,7 +83,7 @@ class HtmlFile:
 
         current_date = datetime.datetime.now().strftime("%Y-%m-%d")
         file_name = f"Weekly_{self.variables['sign']}_{current_date}"
-        self.file_path = os.path.join('templates', file_name)
+        self.file_path = os.path.join('templates/archive', file_name)
 
         with open(self.file_path, 'w') as file:
             file.write(html_edited)
