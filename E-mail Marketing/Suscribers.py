@@ -45,8 +45,9 @@ def char_exists(email, data, char, fields=False):
                 return True
     return False
 
+
 for subscriber in subscribers:
     if not char_exists(subscriber[1], data, 'email'):
         response = client.subscribers.update(subscriber[1], fields={'first_name': subscriber[2], 'sign': subscriber[3]})
-        print(response)
+        print(subscriber[1])
 

@@ -14,23 +14,23 @@ client = MailerLite.Client({
 astro_signs = []
 signs = [
     # ["aries", "Bélier", "♈"],
-    # ["taurus", "Taureau", "♉"],
-    # ["gemini", "Gémeaux", "♊"],
-    # ["cancer", "Cancer", "♋"],
-    # ["leo", "Lion", "♌"],
-    # ["virgo", "Vierge", "♍"],
-    # ["libra", "Balance", "♎"],
-    # ["scorpio", "Scorpion", "♏"],
-    # ["capricorn", "Capricorne", "♑"],
-    # ["aquarius", "Verseau", "♒"],
-    # ["pisces", "Poisson", "♓"],
+    ["taurus", "Taureau", "♉"],
+    ["gemini", "Gémeaux", "♊"],
+    ["cancer", "Cancer", "♋"],
+    ["leo", "Lion", "♌"],
+    ["virgo", "Vierge", "♍"],
+    ["libra", "Balance", "♎"],
+    ["scorpio", "Scorpion", "♏"],
+    ["capricorn", "Capricorne", "♑"],
+    ["aquarius", "Verseau", "♒"],
+    ["pisces", "Poisson", "♓"],
     ["sagittarius", "Sagittaire", "♐"],
 ]
 data = client.subscribers.list()
-for sign in signs:
-    if char_exists(sign[0],data, 'sign', fields=True):
-        astro_signs.append([sign[1], sign[2]])
-
+# for sign in signs:
+#     if char_exists(sign[0],data, 'sign', fields=True):
+#         astro_signs.append([sign[1], sign[2]])
+astro_signs = signs
 print(astro_signs)
 
 htmls = []
