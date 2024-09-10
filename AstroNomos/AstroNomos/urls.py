@@ -18,8 +18,13 @@ from django.contrib import admin
 from django.urls import path, include
 from newsletter import views as newsletter_views
 
+from astrochart.views import ReactItemView, TransitChartView
+
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('newsletter/', include('newsletter.urls')),
     path('', newsletter_views.horoscope, name='home'),
+    path('react/', ReactItemView.as_view(), name='react-list-create'),
+    path('transit-chart/', TransitChartView.as_view(), name='react-chart-create'),
 ]
