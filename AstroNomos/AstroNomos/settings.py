@@ -142,3 +142,6 @@ os.environ['SSL_CERT_FILE'] = certifi.where()
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 logger.debug("Settings module loaded.")
+
+import django_on_heroku
+django_on_heroku.settings(locals())
