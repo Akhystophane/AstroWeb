@@ -45,9 +45,28 @@ def char_exists(email, data, char, fields=False):
                 return True
     return False
 
+#
+# for subscriber in subscribers:
+#     if not char_exists(subscriber[1], data, 'email'):
+#         response = client.subscribers.update(subscriber[1], fields={'first_name': subscriber[2], 'sign': subscriber[3]})
+#         print(subscriber[1])
 
+import dns.resolver
+
+def check_mx_record(domain):
+    try:
+        records = dns.resolver.resolve(domain, 'MX')
+        return len(records) > 0
+    except dns.resolver.NoAnswer:
+        return False
+    except dns.resolver.NXDOMAIN:
+        return False
+print(len(subscribers))
 for subscriber in subscribers:
-    if not char_exists(subscriber[1], data, 'email'):
-        response = client.subscribers.update(subscriber[1], fields={'first_name': subscriber[2], 'sign': subscriber[3]})
-        print(subscriber[1])
+    email = subscriber[1]
+    # Extraire le domaine de l'email
+    domain = email.split('@')[1]
+    print(subscriber)
+    break
+
 

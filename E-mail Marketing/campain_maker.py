@@ -1,19 +1,39 @@
 import os
+
+from AstroNomos.newsletter.models import HoroscopeSubscription
 from html_maker import HtmlFile
 import mailerlite as MailerLite
 from Suscribers import char_exists
+import boto3
+from botocore.exceptions import ClientError
+
+# Remplacez par vos informations
+SENDER = "newsletter@astro-nomos.com"
+RECIPIENT = "emnl.busi@outlook.fr"
+AWS_REGION = "us-east-1"
+client = boto3.client('ses', region_name=AWS_REGION)
 
 
+def push_unsubscribe_link(subscriber_email, email_body_template):
+    # Récupérer l'abonné
+    subscription = HoroscopeSubscription.objects.get(email=subscriber_email)
 
-api_key = os.getenv('MAILERLITE_API_KEY')
-client = MailerLite.Client({
-  'api_key': api_key
-})
+    # Générer un jeton de désabonnement unique
+    subscription.generate_unsubscribe_token()
+
+    # Construire le lien de désabonnement
+    unsubscribe_link = f"http://astro-nomos.com/unsubscribe/{subscription.unsubscribe_token}/"
+
+    # Remplacer la variable {$unsubscribe} par le lien de désabonnement généré
+    email_body = email_body_template.replace('{$unsubscribe}', unsubscribe_link)
+
+    return email_body
 
 
-astro_signs = []
+suscribers = [(9, 'yeroniang585@gmail.com', 'Yero', 'capricorn')]
+
 signs = [
-    # ["aries", "Bélier", "♈"],
+    ["aries", "Bélier", "♈"],
     ["taurus", "Taureau", "♉"],
     ["gemini", "Gémeaux", "♊"],
     ["cancer", "Cancer", "♋"],
@@ -26,11 +46,8 @@ signs = [
     ["pisces", "Poisson", "♓"],
     ["sagittarius", "Sagittaire", "♐"],
 ]
-data = client.subscribers.list()
-# for sign in signs:
-#     if char_exists(sign[0],data, 'sign', fields=True):
-#         astro_signs.append([sign[1], sign[2]])
-astro_signs = signs
+data = ["emnl.busi@outlook.fr"]
+astro_signs = [["cancer", "Cancer", "♋"]]
 print(astro_signs)
 
 htmls = []
@@ -50,18 +67,49 @@ for astro_sign in astro_signs:
 
 
 
-for html in htmls:
+for suscriber in suscribers:
 
-    params = {
-        "name": html.campaign_name,
-        "type": "regular",
-        "emails": [{
-            "subject": f"{html.sign} les astres on quelque chose d'important à te dire cette semaine... 👀",
-            "from_name": "AstroNomos",
-            "from": "newsletter@astro-nomos.com",
-            "content": html.content()
-        }]
-    }
+    # Objet et corps de l'email
+    SUBJECT = f"{suscriber[2]} les astres on quelque chose d'important à te dire cette semaine... 👀"
+    BODY_TEXT = "Bonjour,\nCeci est un email envoyé via Amazon SES."
+    BODY_HTML = None
+    for html in htmls:
+        if html.sign == suscriber[3]:
+            BODY_HTML = push_unsubscribe_link(suscriber[1], html.content())
+    if not BODY_HTML:
+        print(f"{ suscriber[3]} n'est pas dans {astro_signs}")
+        break
+    # Format de l'email
+    CHARSET = "UTF-8"
 
-    response = client.campaigns.create(params)
-    print(response)
+    # send the email
+    try:
+        response = client.send_email(
+            Destination={
+                'ToAddresses': [
+                    RECIPIENT,
+                ],
+            },
+            Message={
+                'Body': {
+                    'Html': {
+                        'Charset': CHARSET,
+                        'Data': BODY_HTML,
+                    },
+                    'Text': {
+                        'Charset': CHARSET,
+                        'Data': BODY_TEXT,
+                    },
+                },
+                'Subject': {
+                    'Charset': CHARSET,
+                    'Data': SUBJECT,
+                },
+            },
+            Source=SENDER,
+        )
+        # Affichez l'ID du message si l'envoi est réussi
+        print("Email envoyé! Message ID:"),
+        print(response['MessageId'])
+    except ClientError as e:
+        print(e.response['Error']['Message'])
