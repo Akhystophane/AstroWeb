@@ -9,4 +9,3 @@ botocore~=1.35.14
 django-cors-headers==4.4.0
 django-on-heroku
 gunicorn
-swisseph==2.10.03.2
