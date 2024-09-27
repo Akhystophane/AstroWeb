@@ -4,9 +4,6 @@ import {
     User, signInWithPopup, GoogleAuthProvider,
 } from "firebase/auth";
 import {signInAnonymously} from "firebase/auth";
-
-import { getAnalytics } from "firebase/analytics"; 
-
 import { initializeApp } from "firebase/app";
 import { useEffect, useState } from "react";
 
@@ -21,31 +18,32 @@ const firebaseConfig = {
   };
   
   const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
+  //const analytics = getAnalytics(app);
   const auth = getAuth(app);
   const googleProvider = new GoogleAuthProvider();
+  export { app, auth };
   
 // Fonction d'inscription avec callback
 export const signUp = (email: string, password: string, onSuccess?: () => void): void => {
     createUserWithEmailAndPassword(auth, email, password)
-        .then((userCredential: UserCredential) => {
-            console.log(userCredential.user);
+        .then((_userCredential: UserCredential) => {
+            //console.log(userCredential.user);
             if (onSuccess) onSuccess();  // Appeler le callback de succès si fourni
         })
-        .catch((error: AuthError) => {
-            console.error(error.message);
+        .catch((_error: AuthError) => {
+            //console.error(error.message);
         });
 };
 
 // Fonction de connexion avec callback
 export const signIn = (email: string, password: string, onSuccess?: () => void): void => {
     signInWithEmailAndPassword(auth, email, password)
-        .then((userCredential: UserCredential) => {
-            console.log(userCredential.user);
+        .then((_userCredential: UserCredential) => {
+            //console.log(userCredential.user);
             if (onSuccess) onSuccess();  // Appeler le callback de succès si fourni
         })
-        .catch((error: AuthError) => {
-            console.error(error.message);
+        .catch((_error: AuthError) => {
+            //console.error(error.message);
         });
 };
   
@@ -62,10 +60,10 @@ export const signIn = (email: string, password: string, onSuccess?: () => void):
   
   export const signInWithGoogle = (): void => {
       signInWithPopup(auth, googleProvider)
-          .then((result) => {
-              console.log("User signed in: ", result.user);
-          }).catch((error) => {
-              console.error("Error signing in: ", error);
+          .then((_result) => {
+              //console.log("User signed in: ", result.user);
+          }).catch((_error) => {
+              //console.error("Error signing in: ", error);
           });
   };
 
@@ -76,11 +74,11 @@ export const signIn = (email: string, password: string, onSuccess?: () => void):
     return signInAnonymously(auth)
         .then(userCredential => {
             // You can handle the successful login here if needed
-            console.log("User signed in anonymously with UID:", userCredential.user.uid);
+            //console.log("User signed in anonymously with UID:", userCredential.user.uid);
             return userCredential; // Optional: return the userCredential for further processing
         })
         .catch(error => {
-            console.error("Error signing in anonymously:", error);
+            //console.error("Error signing in anonymously:", error);
             throw error; // Optional: re-throw the error for the caller to handle
         });
 };

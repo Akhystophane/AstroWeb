@@ -29,12 +29,11 @@ const SolarSystemAnimation: React.FC = () => {
   const planetRefs = useRef<SVGGElement[]>([]);
   const [svgContent, setSvgContent] = useState<string>('');
 
+
   useEffect(() => {
-    // Fetch the SVG content
     fetch(SolarSystemSVGPath)
       .then((response) => response.text())
       .then((data) => {
-       /*  console.log('SVG Content Loaded:', data); // Vérifiez que le contenu du SVG est bien chargé */
         setSvgContent(data);
       })
       .catch((error) => console.error('Error loading SVG:', error));
@@ -44,8 +43,10 @@ const SolarSystemAnimation: React.FC = () => {
     if (svgContent && svgContainerRef.current) {
       svgContainerRef.current.innerHTML = svgContent;
       const svgElement = svgContainerRef.current.querySelector('svg');
+        
 
       if (svgElement) {
+
         const circles = [
           svgElement.getElementById('Circle1'),
           svgElement.getElementById('Circle2'),
@@ -62,7 +63,6 @@ const SolarSystemAnimation: React.FC = () => {
           svgElement.getElementById('Jupiter') as SVGGElement
         ];
 
-        // Convert <circle> elements to <path> if needed
         const convertedCircles = circles.map((circle) => {
           if (circle instanceof SVGCircleElement) {
             return convertCircleToPath(circle);
@@ -72,11 +72,6 @@ const SolarSystemAnimation: React.FC = () => {
 
         circleRefs.current = convertedCircles.filter(Boolean) as SVGPathElement[];
         planetRefs.current = planets.filter(Boolean) as SVGGElement[];
-
-        if (circleRefs.current.length < circles.length || planetRefs.current.length < planets.length) {
-          console.error('Error: One or more SVG elements not found');
-          return;
-        }
 
         gsap.to(planetRefs.current[0], {
           duration: 10,
@@ -142,7 +137,7 @@ const SolarSystemAnimation: React.FC = () => {
     <div className="h-full w-full flex justify-center items-center overflow-hidden relative">
       <div
         ref={svgContainerRef}
-        className="absolute w-[80%] portrait:w-[200%] h-full"
+        className="absolute w-[80%] portrait:w-[220%]  h-full"
         style={{
           maskImage: 'linear-gradient(180deg, transparent 0%, black 30%, black 70%, transparent 100%)',
           WebkitMaskImage: 'linear-gradient(180deg, transparent 0%, black 30%, black 70%, transparent 100%)'
@@ -150,8 +145,8 @@ const SolarSystemAnimation: React.FC = () => {
       >
         {/* Contenu du SVG */}
       </div>
+ 
     </div>
-
   );
 };
 

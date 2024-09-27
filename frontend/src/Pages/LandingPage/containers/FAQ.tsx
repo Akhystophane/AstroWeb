@@ -6,9 +6,9 @@ interface FAQItem {
 }
 
 const faqs: FAQItem[] = [
-  { question: 'Comment fonctionne votre service ?', answer: 'Notre service vous permet de... (détails sur le service).' },
-  { question: 'Quels sont les tarifs ?', answer: 'Les tarifs varient en fonction... (détails sur les tarifs).' },
-  { question: 'Puis-je annuler mon abonnement ?', answer: 'Oui, vous pouvez annuler à tout moment en... (détails sur l\'annulation).' },
+  { question: 'Qui sommes nous 👀 ?', answer: "Notre équipe est composée d'astrologues, d'astronomes et de data analysts passionnés. Nous utilisons les données précises de la NASA pour calculer en temps réel la position des astres et leur influence. Grâce à notre puissant algorithme, nous sommes en mesure de générer des prédictions personnalisées et précises, adaptées à ton profil unique. C'est cette combinaison d'expertise humaine et technologique qui nous permet de te fournir des prévisions fiables sur différents aspects de ta vie." },
+  { question: 'Est-ce gratuit ?', answer: "Pour le moment, tous les services de notre site sont 100% gratuits ! 🎉 C'est l'occasion idéale d'en profiter pleinement pour découvrir tes prédictions personnalisées sans aucun frais. Ne passe pas à côté de cette opportunité !" },
+  { question: 'À quand de nouvelles fonctionnalités ?', answer: "Beaucoup de choses excitantes sont en préparation ! 🔥 Nous travaillons sur des tests de compatibilité amoureuse, un livret détaillé sur ta personnalité, et bien plus encore... Pour être parmi les premiers à les tester dès leur sortie, n'oublie pas de t'abonner à notre newsletter si ce n'est pas déjà fait. C'est le meilleur moyen de rester au courant des nouveautés !" },
 ];
 
 const FAQ: React.FC = () => {

@@ -1,4 +1,4 @@
-import React, { useState, ReactNode, useEffect } from 'react';
+import React, { useState, ReactNode } from 'react';
 import StarsBackground from '../assets/StarsBackground.svg';
 import { User } from 'firebase/auth'
 import AuthPopup from '../Pages/components/authPopup';
@@ -45,7 +45,6 @@ const Card: React.FC<CardProps> = ({ user, title, description, buttonText, butto
   const closeFormModal = () => {
     setIsFormVisible(false);
   };
-  console.log(isFormVisible);
   return (
     <div className="flex items-center justify-center pb-8 px-4 sm:px-6 lg:px-8 bg-gray-100" style={{ backgroundImage: `url(${StarsBackground})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <div className="max-w-md w-full bg-white shadow-lg rounded-lg overflow-hidden sm:max-w-lg md:max-w-xl lg:max-w-3xl xl:max-w-4xl 2xl:max-w-5xl">
@@ -81,9 +80,12 @@ const Card: React.FC<CardProps> = ({ user, title, description, buttonText, butto
       {isFormVisible && formContent && ( // FormContent ne s'affiche que s'il est fourni
         <div className="fixed inset-0 bg-gray-900 bg-opacity-50 flex items-center justify-center z-50">
           <div className="bg-white p-8 rounded-lg shadow-lg max-w-lg w-full">
-            <button className="absolute top-4 right-4 text-gray-500" onClick={closeFormModal}>
-              &#x2715;
-            </button>
+          <button
+            className="ml-auto flex text-gray-700 text-2xl font-bold hover:text-red-600 focus:outline-none"
+            onClick={closeFormModal}
+          >
+            &#x2715;
+          </button>
             {formContent}
           </div>
         </div>

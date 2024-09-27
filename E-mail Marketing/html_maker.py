@@ -55,6 +55,8 @@ class HtmlFile:
         for key, value in variables.items():
             prompt = prompt.replace(key, value)
 
+        print("prompt", prompt)
+
         client = OpenAI()
         completion = client.chat.completions.create(
             model="gpt-4o",
@@ -65,6 +67,7 @@ class HtmlFile:
         )
 
         output = str(completion.choices[0].message.content)
+        print("output", output)
         print("output: ", output)
         start = output.find("{")
         end = output.rfind("}") + 1

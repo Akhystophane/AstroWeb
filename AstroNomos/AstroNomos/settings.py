@@ -49,9 +49,18 @@ MIDDLEWARE = [
     'newsletter.middleware.RedirectToWwwMiddleware',
 ]
 
-REST_FRAMEWORK = {'DEFAULT_PERMISSION_CLASSES': [
-    'rest_framework.permissions.AllowAny'
-]}
+REST_FRAMEWORK = {'DEFAULT_AUTHENTICATION_CLASSES': ('astrochart.authentication.FirebaseAuthentication',),
+                  'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.AllowAny'],
+                'DEFAULT_THROTTLE_CLASSES': [
+                    'rest_framework.throttling.UserRateThrottle',
+                    'rest_framework.throttling.AnonRateThrottle',
+                ],
+                'DEFAULT_THROTTLE_RATES': {
+                    'user': '5/hour',  # Limite de 5 requêtes par heure pour les utilisateurs authentifiés
+                    'anon': '5/hour',  # Limite de 2 requêtes par heure pour les utilisateurs anonymes
+                }
+
+}
 
 CORS_ORIGIN_ALLOW_ALL = True
 
@@ -74,6 +83,9 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'AstroNomos.wsgi.application'
+
+AUTH_USER_MODEL = 'astrochart.UserProfile'
+
 
 
 # Database

@@ -1,0 +1,4319 @@
+[
+    {
+        "id": 9,
+        "email": "yeroniang585@gmail.com",
+        "first_name": "Yero",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "1a92c8e6-a541-42bb-af74-ec977faab1bb",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 14:03:08",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:09"
+        }
+    },
+    {
+        "id": 10,
+        "email": "rebel1809@hotmail.fr",
+        "first_name": "Christophe",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "6b9f08f1-9b55-44c4-8e2d-ecd552dfbe0b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 14:03:16",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:12:10"
+        }
+    },
+    {
+        "id": 13,
+        "email": "fleurieadogbomedagbe@gmail.com",
+        "first_name": "Fleurie",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "86cd9dc2-d9e5-47f4-9374-ba039f781fec",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 14:03:22",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:10"
+        }
+    },
+    {
+        "id": 14,
+        "email": "manar.j.3@hotmail.fr",
+        "first_name": "Manar",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "a8eed75f-1464-4b64-bf20-1e57dd85f973",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 14:03:32",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:10"
+        }
+    },
+    {
+        "id": 15,
+        "email": "lutot.julie@orange.fr",
+        "first_name": "Julie",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "06111a54-0057-45c2-b522-3edbe6d181cd",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 14:03:43",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:11"
+        }
+    },
+    {
+        "id": 16,
+        "email": "sminahsa@gmail.com",
+        "first_name": "Yasmina",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "6c1594c1-9524-4abf-beaa-3ae2f046d614",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 14:04:07",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:11"
+        }
+    },
+    {
+        "id": 17,
+        "email": "icipepsi.4@gmail.com",
+        "first_name": "Angèle",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "9eb1210a-8fab-46c7-8a17-9c4e66c46689",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 14:05:06",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:11"
+        }
+    },
+    {
+        "id": 18,
+        "email": "lucbellemare5@gmail.com",
+        "first_name": "Luc",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "b2862375-788e-4a26-9eae-e40c43c470a3",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 14:05:08",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:11"
+        }
+    },
+    {
+        "id": 19,
+        "email": "staniafils84@gmail.com",
+        "first_name": "Stania",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "7ffb1e4a-a145-4671-9705-3cd641ef3c11",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:28:51",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:12:12"
+        }
+    },
+    {
+        "id": 21,
+        "email": "melfy_88@msn.com",
+        "first_name": "Priscilla",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "7fea4f2a-cd15-4408-af2d-34d430ed6a8f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:28:52",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:12"
+        }
+    },
+    {
+        "id": 22,
+        "email": "rosoan30@gmail.com",
+        "first_name": "Fred",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "833b5847-58e7-449c-ada5-6f4a80a3d703",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:28:53",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:12"
+        }
+    },
+    {
+        "id": 26,
+        "email": "aaronbenoni281@gmail.com",
+        "first_name": "Aaron",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "1476c142-5047-457c-902c-9e5f9b4ad4f0",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:28:54",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:12"
+        }
+    },
+    {
+        "id": 28,
+        "email": "collinanani1@gmail.com",
+        "first_name": "Collin",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "954c1648-9831-4543-902d-057f88b4057f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:28:55",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:13"
+        }
+    },
+    {
+        "id": 29,
+        "email": "jullyemma.ej@gmail.com",
+        "first_name": "Emmanuel",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "23803a01-894f-454d-8eba-8022c18568f1",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:28:56",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:13"
+        }
+    },
+    {
+        "id": 30,
+        "email": "delamon03@gmail.com",
+        "first_name": "Delphine",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "54139d80-e697-42cd-b199-220610c86f0f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:28:56",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:13"
+        }
+    },
+    {
+        "id": 31,
+        "email": "julie.guerin2000@gmail.com",
+        "first_name": "Julie",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "6df085f6-11ef-4f04-9ee3-f0cf9162946a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:28:57",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:13"
+        }
+    },
+    {
+        "id": 32,
+        "email": "sarazinaugustine@gmail.com",
+        "first_name": "Augustine",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "32c2254d-8ecd-41ef-9d6d-73947bd4e0f4",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:28:58",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:12:14"
+        }
+    },
+    {
+        "id": 33,
+        "email": "pascalecroce@gmail.com",
+        "first_name": "Pascale",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "27ece4d1-5b94-4c0c-a32a-601b4977e96c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:28:59",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:14"
+        }
+    },
+    {
+        "id": 37,
+        "email": "haggvalerie@gmail.com",
+        "first_name": "Valérie",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "197297b0-1741-4dab-98aa-3464e323687f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:28:59",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:14"
+        }
+    },
+    {
+        "id": 38,
+        "email": "harmoniedelepaut13390@gmail.com",
+        "first_name": "Harmonie",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "705e401b-714f-4cb1-8a74-37ed7767e58f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:00",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:14"
+        }
+    },
+    {
+        "id": 39,
+        "email": "laurent.viscaro@gmail.com",
+        "first_name": "Laurent",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "4c46eab2-adda-42f4-96cf-f1f4585639cd",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:29:01",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:12:14"
+        }
+    },
+    {
+        "id": 40,
+        "email": "kikinoudu35@hotmail.fr",
+        "first_name": "Ofelia",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "b84ed800-3a02-4c7f-9394-184ff4a361ec",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:02",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:15"
+        }
+    },
+    {
+        "id": 41,
+        "email": "mysmycrypto@gmail.com",
+        "first_name": "Stephy",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "57e30a36-1c24-41dc-93b5-b90117e9a135",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:03",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:15"
+        }
+    },
+    {
+        "id": 42,
+        "email": "zapatakabir33@gmail.com",
+        "first_name": "Kabir",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "81c00205-d287-4837-ae07-09faa06fabdf",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:29:04",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:15"
+        }
+    },
+    {
+        "id": 43,
+        "email": "alexandre.desart@gmail.com",
+        "first_name": "Alexandre",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "a5bb6947-c2f3-4dc0-878a-d5440518d314",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:29:05",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:12:16"
+        }
+    },
+    {
+        "id": 44,
+        "email": "corinne.barbillon@gmail.com",
+        "first_name": "Corinne",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "08ccf33d-7064-435b-9e45-3632be072eb6",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:06",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:16"
+        }
+    },
+    {
+        "id": 45,
+        "email": "99.michel.richard@gmail.com",
+        "first_name": "Michel",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "b88ac193-a571-4388-9280-97d11273996b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:29:07",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:16"
+        }
+    },
+    {
+        "id": 48,
+        "email": "aiouaznathalie@gmail.com",
+        "first_name": "Nathalie",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "b276a32a-9574-4e42-bec5-f6bb0f93288a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:08",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:16"
+        }
+    },
+    {
+        "id": 51,
+        "email": "ludov.grondin@gmail.com",
+        "first_name": "Ludo",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "3d8b97e3-32f9-4a07-aea4-178d50be5538",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:29:08",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:12:17"
+        }
+    },
+    {
+        "id": 52,
+        "email": "prevostjonathan69@gmail.com",
+        "first_name": "Jonathan",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "0d764abc-fa5b-4972-aab2-1a4b95415f28",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:29:09",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:17"
+        }
+    },
+    {
+        "id": 56,
+        "email": "nancydorvil06@gmail.com",
+        "first_name": "Nancy",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "df4b8591-d75b-4502-89e5-dbbc3bd7ade9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:29:10",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:17"
+        }
+    },
+    {
+        "id": 57,
+        "email": "Subaru2022_dube@outlook.com",
+        "first_name": "Audrey",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "dd8cd3ce-2395-4748-a7cb-c2d96bda399d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:29:11",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:17"
+        }
+    },
+    {
+        "id": 58,
+        "email": "boomers.fg@gmail.com",
+        "first_name": "Fabrice",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "ba4a2b7f-ae8d-48a6-a150-f63402e69cc1",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:29:12",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:17"
+        }
+    },
+    {
+        "id": 59,
+        "email": "nickyss2010@gmail.com",
+        "first_name": "Nicole",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "80c0f241-7202-4489-8f29-c385307de39d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:29:13",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:12:18"
+        }
+    },
+    {
+        "id": 60,
+        "email": "x.bagheera@live.be",
+        "first_name": "Françoise",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "e38adf32-77eb-40db-938d-4eae2d92b8e7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:29:13",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:18"
+        }
+    },
+    {
+        "id": 61,
+        "email": "chantalriquelme2@gmail.com",
+        "first_name": "Chantal",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "e597e38f-d1ec-466d-aeae-1506f8675d5d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:29:14",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:18"
+        }
+    },
+    {
+        "id": 63,
+        "email": "khadimkane0120@gmail.com",
+        "first_name": "Serigne Khadim",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "8289cf5d-b01f-42cf-8a97-f07e527e2019",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:29:15",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:12:18"
+        }
+    },
+    {
+        "id": 64,
+        "email": "arrabymarc@gmail.com",
+        "first_name": "Marc",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "f5a57914-4d06-4f95-a43f-9b50ccbb3f54",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:29:16",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:19"
+        }
+    },
+    {
+        "id": 67,
+        "email": "markutjosiane@gmail.com",
+        "first_name": "Josiane clémence",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "ae015d1c-dc9f-448e-963f-d501b0644025",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:29:16",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:12:19"
+        }
+    },
+    {
+        "id": 68,
+        "email": "clotildelhomme@gmail.com",
+        "first_name": "Clotilde",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "7cefd339-8e7d-4a83-9940-5851fead269c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:29:17",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:12:19"
+        }
+    },
+    {
+        "id": 69,
+        "email": "gajpkjean@gmail.com",
+        "first_name": "Kenelm36@gmail.com",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "7a8f5ecc-25c0-42b9-88df-8ab2df1ebd60",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:18",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:19"
+        }
+    },
+    {
+        "id": 70,
+        "email": "medjinaphilistin5@gmail.com",
+        "first_name": "Medjina",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "b287648d-1882-4848-b4bc-c8e8fb042b5e",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:29:19",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:12:19"
+        }
+    },
+    {
+        "id": 72,
+        "email": "aderomouosvalde465@gmail.com",
+        "first_name": "Osvalde",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "e709cd23-0fc0-4961-8407-7b1029abbb60",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:29:20",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:12:20"
+        }
+    },
+    {
+        "id": 73,
+        "email": "adjoviagbotse@gmail.com",
+        "first_name": "Adjovi sika",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "2106d5c8-1284-49e8-9904-bde257061af9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:21",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:20"
+        }
+    },
+    {
+        "id": 74,
+        "email": "manue.ned@gmail.com",
+        "first_name": "Manuella",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "7e7cdd09-c450-437c-a95d-beb15997eac4",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:29:22",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:12:20"
+        }
+    },
+    {
+        "id": 75,
+        "email": "bronzemichael09@gmail.com",
+        "first_name": "Michael",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "21446db8-8f35-48c5-9313-3a7e7e225558",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:23",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:20"
+        }
+    },
+    {
+        "id": 76,
+        "email": "missbertonmeldu60@gmail.com",
+        "first_name": "Mélanie",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "4db41c4a-4494-42bb-ad12-c880469ea74d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:29:23",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:21"
+        }
+    },
+    {
+        "id": 77,
+        "email": "sandys37@orange.fr",
+        "first_name": "Sandra",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "e3f5e363-08da-4a92-86c7-0bd9743ae0c5",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:29:24",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:21"
+        }
+    },
+    {
+        "id": 78,
+        "email": "cm187259@gmail.com",
+        "first_name": "Caroline",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "c6722ee8-e0f2-495d-90e6-fa8ea852d38f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:29:25",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:12:21"
+        }
+    },
+    {
+        "id": 79,
+        "email": "weissaudrey@hotmail.com",
+        "first_name": "Audrey",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "91ab4175-fab0-450e-9745-5fcd5c847567",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:29:26",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:21"
+        }
+    },
+    {
+        "id": 80,
+        "email": "sebijh27@gmail.com",
+        "first_name": "Sebastijan",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "a6427850-839b-4ae2-b4d9-b1b499402701",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:29:26",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:22"
+        }
+    },
+    {
+        "id": 81,
+        "email": "ylytp23@gmail.com",
+        "first_name": "Laetitia",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "31cc0808-91ed-40f6-b965-3bf7e9f32e48",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:29:27",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:22"
+        }
+    },
+    {
+        "id": 82,
+        "email": "broerseconstantin69@gmail.com",
+        "first_name": "Alexander",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "21b7cd94-1c86-4c21-91b7-9f2d715e908d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:29:28",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:12:22"
+        }
+    },
+    {
+        "id": 83,
+        "email": "lenoayf@gmail.com",
+        "first_name": "Fabrice",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "c5887d2a-54b2-4684-a314-3a227abd082f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:29:28",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:22"
+        }
+    },
+    {
+        "id": 84,
+        "email": "gissyalla@gmail.com",
+        "first_name": "Pape Mamadou",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "191d5798-5f9c-4f36-8cf5-f781b054ec6c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:29:29",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:22"
+        }
+    },
+    {
+        "id": 85,
+        "email": "ibouniang430@gmail.com",
+        "first_name": "Ibrahima Niang",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "4dbd332f-0da8-4f5e-8634-7a3e16b20bed",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:29:30",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:12:23"
+        }
+    },
+    {
+        "id": 86,
+        "email": "mounase836@gmail.com",
+        "first_name": "Maimouna Diop",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "991e42d5-fa61-4fdb-98bd-1768b563af96",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:29:31",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:23"
+        }
+    },
+    {
+        "id": 87,
+        "email": "b4b4a1@gmail.com",
+        "first_name": "Alberte",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "ecfcf17c-f00a-4d7f-80ec-b89f0406d24c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:29:32",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:12:23"
+        }
+    },
+    {
+        "id": 90,
+        "email": "karine_koala@hotmail.fr",
+        "first_name": "Karine",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "909d6a13-8e22-4a98-a7bb-0a8c72f91fca",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:33",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:23"
+        }
+    },
+    {
+        "id": 93,
+        "email": "pelletiercindy3@gmail.com",
+        "first_name": "Cindy",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "162cf8ec-f6c7-4c59-903f-ddb82a016de6",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:29:33",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:12:24"
+        }
+    },
+    {
+        "id": 95,
+        "email": "koussavaesther17@gmail.com",
+        "first_name": "Esther",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "b9eb8e80-74ad-4bcf-a10b-7acc8c9ec8cf",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:29:34",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:24"
+        }
+    },
+    {
+        "id": 96,
+        "email": "diemeadama2004@gmail.com",
+        "first_name": "Adama",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "3d44efd8-d22f-4ac2-bf66-db90c2b5a928",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:29:35",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:24"
+        }
+    },
+    {
+        "id": 100,
+        "email": "lesleyassogba1999@gmail.com",
+        "first_name": "Erica",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "07f1e853-efde-40a0-b9b4-e15a7d1c8f50",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:29:36",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:24"
+        }
+    },
+    {
+        "id": 101,
+        "email": "manzonthomas2011@gmail.com",
+        "first_name": "Thomas",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "a67e80e2-1cc0-461c-93f7-96bbc3832556",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:37",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:24"
+        }
+    },
+    {
+        "id": 102,
+        "email": "ouma.ritter@gmail.com",
+        "first_name": "Ouma",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "9da4e1c2-0325-483e-b1f6-f2c94986eee3",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:29:38",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:25"
+        }
+    },
+    {
+        "id": 103,
+        "email": "f19296694@gmail.com",
+        "first_name": "Frédy",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "fb6f7722-d275-49c7-bf25-aed6e4d533be",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:29:39",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:25"
+        }
+    },
+    {
+        "id": 105,
+        "email": "yvelinechandra.jdd@gmail.com",
+        "first_name": "Yveline",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "eee8de22-37fb-438f-9b9c-d7f8ce239a2c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:29:40",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:25"
+        }
+    },
+    {
+        "id": 604,
+        "email": "emnl.busi@outlook.fr",
+        "first_name": "Emmanuel",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "8b279da9-334a-4c5c-a9cb-6be33de6c0ab",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly cancer - 2024-09-10.html": "2024-09-10 16:31:56",
+            "Weekly aries - 2024-09-14.html": "2024-09-14 14:35:30",
+            "Weekly Bélier - 2024-09-14.html": "2024-09-14 14:38:47",
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 13:51:55",
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 13:54:12",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:25"
+        }
+    },
+    {
+        "id": 137,
+        "email": "melanieguyon1@gmail.com",
+        "first_name": "Melanie",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "d397a055-2ca7-46c2-bf5c-ec5fb572a66e",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:29:40",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:26"
+        }
+    },
+    {
+        "id": 117,
+        "email": "smeevejean@gmail.com",
+        "first_name": "Smeeve",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "d8068a9b-aa68-433a-91b5-29a116db5eb7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:29:41",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:26"
+        }
+    },
+    {
+        "id": 118,
+        "email": "olivier.vicario@wanadoo.fr",
+        "first_name": "Olivier",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "26741b8d-64b0-40cf-b8ad-6b211936fc66",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:29:42",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:26"
+        }
+    },
+    {
+        "id": 119,
+        "email": "wendyheseune@gmail.com",
+        "first_name": "Wendy",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "38270e8c-b5a5-4d69-bb5e-db5383f5388c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:29:43",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:26"
+        }
+    },
+    {
+        "id": 122,
+        "email": "gildaskintonou88@gmail.com",
+        "first_name": "Gildas",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "9e0c851d-35aa-48d6-a152-3b26cde5a041",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:29:43",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:27"
+        }
+    },
+    {
+        "id": 123,
+        "email": "faraci-liborio@hotmail.com",
+        "first_name": "Liborio",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "b44e7a05-0545-4ddf-83b3-3d17f347ce14",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:29:44",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:27"
+        }
+    },
+    {
+        "id": 124,
+        "email": "noufoued2006@gmail.com",
+        "first_name": "Noufou",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "91b0145f-982e-4095-8e7f-dbcd73ab4d7f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:29:45",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:27"
+        }
+    },
+    {
+        "id": 125,
+        "email": "taehauhubert@gmail.com",
+        "first_name": "Hubert",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "87085541-2348-4790-9907-0051ef4dbca6",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:46",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:27"
+        }
+    },
+    {
+        "id": 126,
+        "email": "jessie_mania@hotmail.com",
+        "first_name": "Jessie",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "57bd9b00-4a2a-4d37-b693-a81d8a237e11",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:29:46",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:28"
+        }
+    },
+    {
+        "id": 131,
+        "email": "zakariawairha@gmail.com",
+        "first_name": "Wairha",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "c4e5a0bb-9888-41ca-ae62-51c38a500024",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:29:47",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:28"
+        }
+    },
+    {
+        "id": 133,
+        "email": "jsmorange199@gmail.com",
+        "first_name": "Ghj",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "09d1f3c0-be5c-4eb5-8900-745f1c971e5a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:48",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:28"
+        }
+    },
+    {
+        "id": 134,
+        "email": "soufflet.vanessa@live.fr",
+        "first_name": "Vanessa",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "d7c015a6-538b-4e3c-b101-cf8409dc3472",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:29:49",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:28"
+        }
+    },
+    {
+        "id": 136,
+        "email": "saintgostardo@gmail.com",
+        "first_name": "Gautier",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "168bee12-200d-4174-a589-d4948d77d8b7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:29:50",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:28"
+        }
+    },
+    {
+        "id": 138,
+        "email": "claracismaela@gmail.com",
+        "first_name": "Clara",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "e727dd4f-f34a-466b-846a-0e534aa13b21",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:29:50",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:29"
+        }
+    },
+    {
+        "id": 139,
+        "email": "olivierdelattre@live.fr",
+        "first_name": "Olivier",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "836e1573-7fda-4a01-8474-6c161df277ec",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:51",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:29"
+        }
+    },
+    {
+        "id": 140,
+        "email": "twylline@gmail.com",
+        "first_name": "Wylline",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "76ca3eb9-a090-4701-8c3e-9336e8320467",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:29:52",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:29"
+        }
+    },
+    {
+        "id": 141,
+        "email": "barbara.reborn21@gmail.com",
+        "first_name": "Barbara",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "df2cd67a-8a4b-44b5-80a1-c88f9e9b618e",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:29:53",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:29"
+        }
+    },
+    {
+        "id": 142,
+        "email": "lionelllambert@hotmail.fr",
+        "first_name": "Lionel",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "6a98d83a-b263-4e4b-8f51-799fc36e7170",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:29:54",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:30"
+        }
+    },
+    {
+        "id": 143,
+        "email": "yuna1112@hotmail.fr",
+        "first_name": "Cindy",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "f24308ea-ac55-4987-a20a-e9b93c6e7031",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:29:55",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:12:30"
+        }
+    },
+    {
+        "id": 146,
+        "email": "sitouariel8@gmail.com",
+        "first_name": "Ariel",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "aaf98939-6403-44fc-aec5-7a64d8138a6e",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:29:56",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:30"
+        }
+    },
+    {
+        "id": 166,
+        "email": "arnaudcormier8181@gmail.com",
+        "first_name": "Arnaud",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "202bbd0a-0799-4b2f-b652-857764c8234f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:29:56",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:12:30"
+        }
+    },
+    {
+        "id": 167,
+        "email": "mariesarah971@gmail.com",
+        "first_name": "Sarah",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "2462df66-b648-46b6-b567-87cb61b9f1bf",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:29:57",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:12:31"
+        }
+    },
+    {
+        "id": 169,
+        "email": "razafyprissy@gmail.com",
+        "first_name": "Prissy",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "3ea9c546-0675-48e9-b2ce-5485c6db1b53",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:29:58",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:31"
+        }
+    },
+    {
+        "id": 170,
+        "email": "sgibson2111@gmail.com",
+        "first_name": "Sandie",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "1f849000-9278-4a05-b949-96095d9cce78",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:29:59",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:12:31"
+        }
+    },
+    {
+        "id": 171,
+        "email": "p309gti16v@gmail.com",
+        "first_name": "Lionel",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "45031c6c-ad5c-4e0a-bbb6-f3340e034fab",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:29:59",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:31"
+        }
+    },
+    {
+        "id": 173,
+        "email": "thomashoarau65@gmail.com",
+        "first_name": "Thomas",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "e3586502-6f4e-4ac8-9019-b21a94502062",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:30:00",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:31"
+        }
+    },
+    {
+        "id": 175,
+        "email": "jacquelineneron97212@gmail.com",
+        "first_name": "Jacqueline",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "34f61129-78fb-4440-a016-171e62447e99",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:30:01",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:12:32"
+        }
+    },
+    {
+        "id": 176,
+        "email": "mc.cherblanc@sfr.fr",
+        "first_name": "Marie-Christine",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "f9096928-c727-47c5-8607-131625aaa275",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:03",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:32"
+        }
+    },
+    {
+        "id": 179,
+        "email": "anaisoceanejames@gmail.com",
+        "first_name": "Marie Danielle",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "c6017940-d83a-4478-af83-7a5bfdf64c9c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:30:04",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:12:32"
+        }
+    },
+    {
+        "id": 181,
+        "email": "emyko.valenka@gmail.com",
+        "first_name": "Yasmina",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "a6adcf66-2f85-4e33-b919-dcafbabc76d9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:05",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:32"
+        }
+    },
+    {
+        "id": 182,
+        "email": "berenice0107@gmail.com",
+        "first_name": "Berenice",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "9a6319ed-b179-4490-84d6-394adaf6623c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:06",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:32"
+        }
+    },
+    {
+        "id": 183,
+        "email": "riccoo2021@outlook.com",
+        "first_name": "steven",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "a9ebc1f9-de68-4f66-b6bf-c158641f09e4",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:06",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:33"
+        }
+    },
+    {
+        "id": 184,
+        "email": "shirleymarengere007@gmail.com",
+        "first_name": "Shirley",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "31c85ff1-7d1b-4849-9cfb-9912c9718ad3",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:30:07",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:12:33"
+        }
+    },
+    {
+        "id": 185,
+        "email": "heyma1456@gmail.com",
+        "first_name": "Heyma",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "ceb93208-cf3f-4d14-8e22-a146c2f6fe8a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:30:08",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:33"
+        }
+    },
+    {
+        "id": 186,
+        "email": "floloute@hotmail.com",
+        "first_name": "Julie",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "1b65149a-5315-44dd-a72a-89a1cbe564b8",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:30:09",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:12:33"
+        }
+    },
+    {
+        "id": 188,
+        "email": "Djivededjivede@gmail.com",
+        "first_name": "Christ Landry Djivede",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "3d8bd17e-ae26-4e34-90c1-1bd466b749b8",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:10",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:34"
+        }
+    },
+    {
+        "id": 191,
+        "email": "lobedanielle756@gmail.com",
+        "first_name": "Danielle",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "4cec32dd-581c-4319-9ce4-c35cbc254bb3",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:30:11",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:34"
+        }
+    },
+    {
+        "id": 194,
+        "email": "asarre200315@gmail.com",
+        "first_name": "Abdou Sarr",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "70bc9411-6032-4ba5-9f00-cd469ebffbdf",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:30:12",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:12:34"
+        }
+    },
+    {
+        "id": 195,
+        "email": "cherubinsibyllelaurette@gmail.com",
+        "first_name": "Sibylle Laurette",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "74ec0dd1-572e-48a1-b966-8d762ad1dc52",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:13",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:34"
+        }
+    },
+    {
+        "id": 196,
+        "email": "saidatshittu27@gmail.com",
+        "first_name": "Saidat",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "84c041e3-1c25-49d2-ba7d-0bcaad3af02c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:14",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:35"
+        }
+    },
+    {
+        "id": 197,
+        "email": "Sherye.B@hotmail.fr",
+        "first_name": "MORGAN",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "b1561d8a-c94a-46a9-880c-a93807828057",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:14",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:35"
+        }
+    },
+    {
+        "id": 198,
+        "email": "isabelle.pierron88000@gmail.com",
+        "first_name": "Isabelle",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "f9607612-c536-458f-91a0-e643cebf02f5",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:15",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:35"
+        }
+    },
+    {
+        "id": 200,
+        "email": "Hyppolitejean@gmail.com",
+        "first_name": "Taïna",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "06d88d7d-9e26-4885-9745-df71cf2b44fd",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:16",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:35"
+        }
+    },
+    {
+        "id": 203,
+        "email": "sergemoana@gmail.com",
+        "first_name": "Moana serge",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "64089cd5-7eeb-4301-aae6-85bc242fb386",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:30:17",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:35"
+        }
+    },
+    {
+        "id": 204,
+        "email": "pphiliston@gmail.com",
+        "first_name": "Paulette",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "d3e75990-942f-42e9-b69e-7711194f2090",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:30:17",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:12:36"
+        }
+    },
+    {
+        "id": 232,
+        "email": "yizhan146@gmail.com",
+        "first_name": "Xao",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "cbdac961-1da4-4dfe-a479-41abf1bc5505",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:18",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:36"
+        }
+    },
+    {
+        "id": 234,
+        "email": "dumeusrosemirlande607@gmail.com",
+        "first_name": "Rosemirlande",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "6a525fee-1a90-4063-803e-c5315930b95f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:19",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:36"
+        }
+    },
+    {
+        "id": 236,
+        "email": "tameklo1992@gmail.com",
+        "first_name": "Aimé",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "a59bb46b-6b8e-450e-a0bd-93de7d23d5ad",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:30:20",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:12:36"
+        }
+    },
+    {
+        "id": 237,
+        "email": "novayoshie789@gmail.com",
+        "first_name": "Noelle",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "92a4268c-0a32-48e0-ae7e-dbd10fd2e513",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:30:20",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:36"
+        }
+    },
+    {
+        "id": 239,
+        "email": "dloic1399@gmail.com",
+        "first_name": "Loic",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "819374d8-9a32-41a2-bcfb-a0741381b0ad",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:30:21",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:12:37"
+        }
+    },
+    {
+        "id": 240,
+        "email": "arnauld.valle59@outlook.com",
+        "first_name": "Arnauld",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "b69aa5a9-2319-4cd1-bee8-865fdd12a1bc",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:30:22",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:37"
+        }
+    },
+    {
+        "id": 241,
+        "email": "cariusoberson@gmail.com",
+        "first_name": "Oberson",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "2b93902c-ec74-4d73-b4fc-a0dbf0f41637",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:23",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:37"
+        }
+    },
+    {
+        "id": 242,
+        "email": "azizseck920@gmail.com",
+        "first_name": "Aziz",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "be710795-f709-40f6-a9f4-4ac7d1138551",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:23",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:37"
+        }
+    },
+    {
+        "id": 243,
+        "email": "karshmyrvieux08@gmail.com",
+        "first_name": "Karshmyr",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "6764e97c-36ac-4de7-8815-420da137ba7d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:30:24",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:38"
+        }
+    },
+    {
+        "id": 244,
+        "email": "llioness2.0@gmail.com",
+        "first_name": "Pauline",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "86790df1-f331-4d76-b0d2-47fc0e922f54",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:30:25",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:38"
+        }
+    },
+    {
+        "id": 245,
+        "email": "jessloveaub@gmail.com",
+        "first_name": "Jessyka",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "47c537c9-a6bb-4641-9ef4-8a2a3ce16046",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:30:26",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:38"
+        }
+    },
+    {
+        "id": 248,
+        "email": "lacolombefanta@gmail.com",
+        "first_name": "FANTA",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "b9995fc3-fbcf-4df3-af7c-11c9008f11f1",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:27",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:38"
+        }
+    },
+    {
+        "id": 250,
+        "email": "diaprince81@gmail.com",
+        "first_name": "Prince dia",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "13043c9e-58ee-4f8e-b3fb-e4d42b02f7ea",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:30:28",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:38"
+        }
+    },
+    {
+        "id": 251,
+        "email": "nebnomaclement90@gmail.com",
+        "first_name": "Clément",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "e454271c-756b-4538-a009-8ffe2a805696",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:30:29",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:12:39"
+        }
+    },
+    {
+        "id": 252,
+        "email": "punk.love@hotmail.com",
+        "first_name": "Jessika",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "1c00d222-4736-44a3-aebe-ed70aa296c36",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:30",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:39"
+        }
+    },
+    {
+        "id": 254,
+        "email": "florence.feriaud@gmail.com",
+        "first_name": "Florence",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "101ca02a-760f-4eb8-8b34-209384ec3363",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:31",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:39"
+        }
+    },
+    {
+        "id": 255,
+        "email": "mensavijeanne49@gmail.com",
+        "first_name": "Jeanette",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "9d5073eb-8a63-4bae-9cad-f2459ef6fddf",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:30:32",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:12:39"
+        }
+    },
+    {
+        "id": 256,
+        "email": "germainelawson81@gmail.com",
+        "first_name": "Germaine",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "4dd17458-ff25-40a5-b990-c888842a84a5",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:33",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:40"
+        }
+    },
+    {
+        "id": 257,
+        "email": "philippe.artigaud17@gmail.com",
+        "first_name": "Philippe",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "43188910-b84a-4251-a823-c6a7f117c12c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:30:33",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:40"
+        }
+    },
+    {
+        "id": 258,
+        "email": "nestorbeatamegandje@gmail.com",
+        "first_name": "Prosper",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "d9ec8599-12f0-4d4a-8dfa-14caa37d6505",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:34",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:40"
+        }
+    },
+    {
+        "id": 259,
+        "email": "lorely97one@live.fr",
+        "first_name": "Marie-Pascale",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "bf1147ed-0c1b-402c-a3b7-1c1b52907dff",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:30:35",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:40"
+        }
+    },
+    {
+        "id": 260,
+        "email": "sallalioune548@gmail.com",
+        "first_name": "Alioune sall",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "42e5d4eb-b67d-4446-a09c-fca94f9d8485",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:30:36",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:12:40"
+        }
+    },
+    {
+        "id": 265,
+        "email": "admiralbarkus@gmail.com",
+        "first_name": "Barkus",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "cc023156-3c47-4a1e-b222-5f6cdc6f2cfe",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:37",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:41"
+        }
+    },
+    {
+        "id": 268,
+        "email": "sophiemariaophin@gmail.com",
+        "first_name": "Maria Sophie",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "c4b31445-6ac9-4ca9-a52d-402d94356808",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:30:38",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:12:41"
+        }
+    },
+    {
+        "id": 269,
+        "email": "margarida.salgadofontes@gmail.com",
+        "first_name": "Margarita",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "68d1d732-ce96-4059-bce4-cffbd75a5596",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:30:38",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:41"
+        }
+    },
+    {
+        "id": 270,
+        "email": "petite.fleur0901@gmail.com",
+        "first_name": "Véronique",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "ad718c04-ef33-4b4d-9fa5-8613a67c0818",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:30:39",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:41"
+        }
+    },
+    {
+        "id": 271,
+        "email": "fredericlegal5627@gmail.com",
+        "first_name": "Frédéric",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "c83aa565-df66-4f87-8446-f45ec8f4c918",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:30:40",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:42"
+        }
+    },
+    {
+        "id": 272,
+        "email": "memyselfandmycats76@gmail.com",
+        "first_name": "Emma",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "82588ae6-8008-4b01-a116-db0a3d3e2b91",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:30:41",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:42"
+        }
+    },
+    {
+        "id": 273,
+        "email": "bodiandieynaba9@gmail.com",
+        "first_name": "Dieynaba",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "2883a4a1-7a51-4a70-a1c1-76e9f013ec5f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:42",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:42"
+        }
+    },
+    {
+        "id": 274,
+        "email": "0614754936m@gmail.com",
+        "first_name": "Emmanuel",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "45794df7-b221-471f-b135-672cbe68989c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:43",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:12:42"
+        }
+    },
+    {
+        "id": 275,
+        "email": "alhamdoutounkara0@gmail.com",
+        "first_name": "Tounkara",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "1f1f5929-a059-4452-a2c3-30ef4c355249",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:30:44",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:42"
+        }
+    },
+    {
+        "id": 276,
+        "email": "aline2monteret@gmail.com",
+        "first_name": "Aline",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "272dd7e6-59d3-4fba-85b9-f34eab40895d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:45",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:43"
+        }
+    },
+    {
+        "id": 279,
+        "email": "pierrejhonley@gmail.com",
+        "first_name": "Jhonley",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "841513ef-9ce2-41cd-aaac-4bf21784abdc",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:30:46",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:12:43"
+        }
+    },
+    {
+        "id": 280,
+        "email": "joanie.bedard1995@gmail.com",
+        "first_name": "Joanie",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "9f8518a3-9985-4273-a944-a2474e783314",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:30:47",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:12:43"
+        }
+    },
+    {
+        "id": 283,
+        "email": "davidnyanoo1@gmail.com",
+        "first_name": "David",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "81059dc0-eeff-4587-a286-fc9fdfb424d7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:30:47",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:12:43"
+        }
+    },
+    {
+        "id": 284,
+        "email": "leclercsteven59@outlook.fr",
+        "first_name": "Steven",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "76e22fdf-effc-4016-989a-d114789cc304",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:30:48",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:12:43"
+        }
+    },
+    {
+        "id": 287,
+        "email": "fatimasakho232@gmail.com",
+        "first_name": "Fatima",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "b111a73c-5c9e-4d0d-8d05-ec07ac354a59",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:30:49",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:12:44"
+        }
+    },
+    {
+        "id": 288,
+        "email": "yasydhay@gmail.com",
+        "first_name": "Maria Isabel",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "ac4af5ea-a0c8-4f3b-87b7-eff9c43559e0",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:30:50",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:12:44"
+        }
+    },
+    {
+        "id": 289,
+        "email": "miksa.christelle@orange.fr",
+        "first_name": "Christelle",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "44edff59-6b6a-4bec-ae52-68a0a74f7c57",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:30:51",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:44"
+        }
+    },
+    {
+        "id": 290,
+        "email": "latifouousman0@gmail.com",
+        "first_name": "Latif",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "14a19b03-6511-4446-8ee7-01723c152483",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:30:51",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:12:44"
+        }
+    },
+    {
+        "id": 292,
+        "email": "raimanamorohi82@gmail.com",
+        "first_name": "Raimana",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "3fb2885e-7f1d-489b-8e04-29159bda1537",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:30:52",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:12:44"
+        }
+    },
+    {
+        "id": 294,
+        "email": "ghisco07@gmail.com",
+        "first_name": "Ghislaine",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "46cfef98-37a4-482f-8f66-cd1738249961",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:30:53",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:19"
+        }
+    },
+    {
+        "id": 295,
+        "email": "vaiheremaverickpurou@gmail.com",
+        "first_name": "Elisa",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "cf828007-80c4-4ea9-ae5e-a28941086bbd",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:30:54",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:25:19"
+        }
+    },
+    {
+        "id": 296,
+        "email": "audrey.agricole86@gmail.com",
+        "first_name": "Audrey",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "fd6d064a-9e37-4f6d-8105-59d65f47deb9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:30:54",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:20"
+        }
+    },
+    {
+        "id": 299,
+        "email": "methndiaye43@gmail.com",
+        "first_name": "Meth",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "351451d8-771f-47b4-b538-c5c03c681ed0",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:55",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:25:20"
+        }
+    },
+    {
+        "id": 301,
+        "email": "lucawalry@gmail.com",
+        "first_name": "Luca",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "a8aa457b-ee72-4958-964a-1c9247b74412",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:30:56",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:25:20"
+        }
+    },
+    {
+        "id": 303,
+        "email": "baptisteabraham238@gmail.com",
+        "first_name": "Elizabeth Brasse",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "63c309cd-2389-442a-83a2-147aa1e74222",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:30:57",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:21"
+        }
+    },
+    {
+        "id": 304,
+        "email": "julienlavenu20@gmail.com",
+        "first_name": "Julien",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "1a8c9f20-4d7d-4c31-b348-c5a15a40e861",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:30:58",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:25:21"
+        }
+    },
+    {
+        "id": 306,
+        "email": "diceloudia@gmail.com",
+        "first_name": "Loudia",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "3e9b6a17-9dcd-4b7a-ad8e-1ebbebe7d653",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:30:58",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:22"
+        }
+    },
+    {
+        "id": 307,
+        "email": "kouassiflavie1@gmail.com",
+        "first_name": "Assouan prisca flavie",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "5f1a3f29-f025-4dd4-8d3b-26979ba5a4b1",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:00",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:22"
+        }
+    },
+    {
+        "id": 308,
+        "email": "lydiatremblay999@gmail.com",
+        "first_name": "Lydia",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "7d4d911a-75f8-49f5-8fba-ec7623a557e6",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:01",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:22"
+        }
+    },
+    {
+        "id": 309,
+        "email": "ngaparou0@gmail.com",
+        "first_name": "Youssoupha",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "47c99386-6327-408f-9257-66f053e4fe87",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:31:01",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:23"
+        }
+    },
+    {
+        "id": 310,
+        "email": "missidany@gmail.com",
+        "first_name": "Daniel",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "f5c52eea-789c-4121-a103-f0c4770f6a3b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:31:02",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:25:23"
+        }
+    },
+    {
+        "id": 312,
+        "email": "calimaouattara1993@gmail.com",
+        "first_name": "Alima",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "4118e531-cb6e-4cde-b368-5c9e198e66f9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:31:03",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:23"
+        }
+    },
+    {
+        "id": 313,
+        "email": "cbalde037@gmail.com",
+        "first_name": "Couleur baldé",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "a9eff47f-1e1c-4327-92f3-54090de5b060",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:31:04",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:25:24"
+        }
+    },
+    {
+        "id": 314,
+        "email": "theo.walgraffe2912@gmail.com",
+        "first_name": "Theo",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "ad5c18b6-ac4d-47fc-aa8a-174517a9f121",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:05",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:24"
+        }
+    },
+    {
+        "id": 315,
+        "email": "c_1204@outlook.com",
+        "first_name": "Christopher",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "1dee9ec5-3dea-4a14-bf6c-5293e546a698",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:05",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:24"
+        }
+    },
+    {
+        "id": 316,
+        "email": "claudebeno005@gmail.com",
+        "first_name": "Claude",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "ae8dd1c6-8016-4a4a-b3f5-7382d5f98bf1",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:31:06",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:25"
+        }
+    },
+    {
+        "id": 317,
+        "email": "K.malmaison@gmail.com",
+        "first_name": "Karine",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "50792235-b275-4347-ba47-b05dbfb5c419",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:07",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:25"
+        }
+    },
+    {
+        "id": 321,
+        "email": "chedelphilippe285@gmail.com",
+        "first_name": "Philippe",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "20c3f171-9d10-47ec-9c95-107caa57e834",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:31:08",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:26"
+        }
+    },
+    {
+        "id": 322,
+        "email": "ti_je_je@hotmail.com",
+        "first_name": "Jason",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "0dcc1d08-3853-4018-bed7-dcf1a2e32b5e",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:09",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:26"
+        }
+    },
+    {
+        "id": 324,
+        "email": "jeanemmanuela380@gmail.com",
+        "first_name": "Emmanuela",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "6492a386-68f7-4872-8896-fafa8ef95694",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:09",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:26"
+        }
+    },
+    {
+        "id": 326,
+        "email": "paulaabul130@gmail.com",
+        "first_name": "Abul Paula Marie",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "bf6d166c-6c41-4b50-945f-97b9bd1ae4cf",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:10",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:27"
+        }
+    },
+    {
+        "id": 327,
+        "email": "fdjiba743@gmail.com",
+        "first_name": "Fatou",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "f56b401a-8b18-4696-9ef2-ff726d604bc9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:31:11",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:27"
+        }
+    },
+    {
+        "id": 328,
+        "email": "seratheche@gmail.com",
+        "first_name": "Thechelene",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "1ace5336-0986-42cd-8511-4d167d5e5710",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:31:12",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:25:28"
+        }
+    },
+    {
+        "id": 329,
+        "email": "alexisjeanronel98@gmail.com",
+        "first_name": "Jean Ronel",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "194b3d90-a6ba-45dd-bd99-4e2a8b90f880",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:31:12",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:28"
+        }
+    },
+    {
+        "id": 330,
+        "email": "salle.cyrill@orange.fr",
+        "first_name": "Cyril",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "14b3677b-74c5-4746-afd8-a009387b5316",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:31:13",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:28"
+        }
+    },
+    {
+        "id": 331,
+        "email": "sorayalekanga@gmail.com",
+        "first_name": "Soraya",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "cddb93af-f9e3-487c-84cf-0381ecf3dc3c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:14",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:28"
+        }
+    },
+    {
+        "id": 333,
+        "email": "lycour57@gmail.com",
+        "first_name": "Lydie",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "e6281e6c-24f9-4a36-9a98-d964eb715bc7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:15",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:29"
+        }
+    },
+    {
+        "id": 334,
+        "email": "mishnada02@gmail.com",
+        "first_name": "Mishnada",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "c678dd04-3181-4db1-89de-c2901d24a07b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:31:16",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:29"
+        }
+    },
+    {
+        "id": 335,
+        "email": "teaferre@gmail.com",
+        "first_name": "Téa",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "2bc6f16e-1fba-4bde-ab06-c742fdeb153f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:31:17",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:25:29"
+        }
+    },
+    {
+        "id": 337,
+        "email": "rachel.landmann78@gmail.com",
+        "first_name": "Rachel",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "cac81430-f705-43e6-ad68-17a6020ff24b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:31:18",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:25:30"
+        }
+    },
+    {
+        "id": 338,
+        "email": "valeriedoloresrincher@gmail.com",
+        "first_name": "Valerie",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "2dad408c-0577-471a-a982-20d6b7219940",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:31:19",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:30"
+        }
+    },
+    {
+        "id": 341,
+        "email": "frantzciacharles23@gmail.com",
+        "first_name": "Frantzcia",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "095256bd-925f-4a14-9692-89d9751db859",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:31:19",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:30"
+        }
+    },
+    {
+        "id": 349,
+        "email": "faraniteura@gmail.com",
+        "first_name": "teura",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "1ec79738-171e-435e-8254-940896e980c1",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:31:20",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:30"
+        }
+    },
+    {
+        "id": 352,
+        "email": "pascalminondji68@gmail.com",
+        "first_name": "Pascal",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "e3dec91e-6e5e-4e8e-af65-7944fb1eead5",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:31:21",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:31"
+        }
+    },
+    {
+        "id": 355,
+        "email": "bijouxmwango@gmail.com",
+        "first_name": "ariel",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "231b14e1-8614-45ed-bdfe-2e0499e00222",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:31:22",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:31"
+        }
+    },
+    {
+        "id": 357,
+        "email": "marilusfausnilson@gmail.com",
+        "first_name": "Fausnilson",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "a8410e63-0117-4259-ae58-e914ad4e5432",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:22",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:31"
+        }
+    },
+    {
+        "id": 363,
+        "email": "kebendella89@gmail.com",
+        "first_name": "Cheikhou",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "8c5f858b-e62f-4634-9463-8f58d32e5e2e",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:31:23",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:32"
+        }
+    },
+    {
+        "id": 364,
+        "email": "karim.kahoul@hotmail.fr",
+        "first_name": "Karim",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "5d5bd454-d814-40de-a6cc-0fa496ef16e2",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:31:24",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:32"
+        }
+    },
+    {
+        "id": 365,
+        "email": "billetblandine4@gmail.com",
+        "first_name": "Blandine",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "5ea1e3d6-c99f-4908-a1e5-52b367f20444",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:25",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:32"
+        }
+    },
+    {
+        "id": 366,
+        "email": "gommedomino@gmail.com",
+        "first_name": "Dominique",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "157bbb7c-e1ea-4b60-84da-8dc50a21c42a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:31:25",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:33"
+        }
+    },
+    {
+        "id": 367,
+        "email": "gbadamassiyesid@gmail.com",
+        "first_name": "Yesid",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "d20d2758-e001-479c-9697-03fb2c01ceee",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:26",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:33"
+        }
+    },
+    {
+        "id": 368,
+        "email": "taloudoriane52@gmail.com",
+        "first_name": "Doriane",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "9184e258-0381-47b9-84d3-a94ad38fe67a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:31:27",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:25:33"
+        }
+    },
+    {
+        "id": 370,
+        "email": "sebastienjeanlucien@gmail.com",
+        "first_name": "Sébastien",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "a6c77499-eef8-45c8-b188-05831a26ef2d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:28",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:33"
+        }
+    },
+    {
+        "id": 371,
+        "email": "ouattaramichael307@gmail.com",
+        "first_name": "Michael",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "70db61da-f4db-45b6-873a-6aee6032e8a6",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:31:28",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:25:34"
+        }
+    },
+    {
+        "id": 372,
+        "email": "karinaduchesne@hotmail.com",
+        "first_name": "karina",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "18c5af01-9ea8-46ea-a683-517252ec330c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:31:29",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:34"
+        }
+    },
+    {
+        "id": 374,
+        "email": "laazdasking@gmail.com",
+        "first_name": "Morel",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "c9fa73e1-fd9a-4577-b79f-8a72e5e00ab9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:31:30",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:25:34"
+        }
+    },
+    {
+        "id": 376,
+        "email": "iveta.qc@gmail.com",
+        "first_name": "Iveta",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "c0b3837e-430d-4323-8267-06aacf8170be",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:31:31",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:25:35"
+        }
+    },
+    {
+        "id": 377,
+        "email": "guillaume.saillard41@gmail.com",
+        "first_name": "Guillaume",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "901cd08a-36ac-4137-bbcd-42caef6a1e5b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:31",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:35"
+        }
+    },
+    {
+        "id": 379,
+        "email": "desrivieresjeanclivens29@gmail.com",
+        "first_name": "Jean Clivens",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "77a432ec-8f9e-4117-a38c-d70c22f76658",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:33",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:35"
+        }
+    },
+    {
+        "id": 380,
+        "email": "zolpydoumbia58@gmail.com",
+        "first_name": "Adama",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "8b5c5b25-8bab-439b-ab40-6248e989f448",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:31:34",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:35"
+        }
+    },
+    {
+        "id": 381,
+        "email": "racheldidierjean@gmail.com",
+        "first_name": "Rachel",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "baa726d1-c82d-40c0-8690-614da6e64371",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:31:35",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:36"
+        }
+    },
+    {
+        "id": 382,
+        "email": "bleclercq60@gmail.com",
+        "first_name": "Barbara",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "ab4504c3-b3a6-4ac6-b37b-06249031c2e9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:31:36",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:36"
+        }
+    },
+    {
+        "id": 383,
+        "email": "ielayyoubi@gmail.com",
+        "first_name": "Ihssane",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "c8a13aae-a74b-4bcc-b386-7e6e0d0c28f3",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:37",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:36"
+        }
+    },
+    {
+        "id": 384,
+        "email": "fgrenier957@gmail.com",
+        "first_name": "Frederic",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "ddf28c64-bc26-4440-ab2e-63047c02e50b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:37",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:36"
+        }
+    },
+    {
+        "id": 386,
+        "email": "mbury3779@gmail.com",
+        "first_name": "Michael",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "b0b8c4d6-91e9-4d83-b770-892a5341bd56",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:31:38",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:25:37"
+        }
+    },
+    {
+        "id": 387,
+        "email": "Sidonie23@hotmail.fr",
+        "first_name": "Sidonie",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "9e34318b-f9b0-436e-aefb-759dabe79794",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:31:39",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:25:37"
+        }
+    },
+    {
+        "id": 390,
+        "email": "vjoe151102@gmail.com",
+        "first_name": "Víctor",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "09ee9f38-3720-4a4f-b024-aa6b3c05c223",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:31:40",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:25:37"
+        }
+    },
+    {
+        "id": 393,
+        "email": "ndouafredy89@gmail.com",
+        "first_name": "Ferdinand",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "cef02a35-b779-453c-8ddc-618c2bb8d3bd",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:40",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:38"
+        }
+    },
+    {
+        "id": 394,
+        "email": "chantal97190@gmail.com",
+        "first_name": "Chantal",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "ed536bd8-9ed0-437b-b971-d2bdfb696141",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:41",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:38"
+        }
+    },
+    {
+        "id": 395,
+        "email": "planetamanga2019@gmail.com",
+        "first_name": "Bob",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "0ceb6702-8c0d-4ce3-9d4d-c2be381190c8",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:31:42",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:38"
+        }
+    },
+    {
+        "id": 396,
+        "email": "ludkatss.pro@gmail.com",
+        "first_name": "Ludivine",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "dc6bcbc6-8c83-4c4f-9f96-8b46bbb00507",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:43",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:38"
+        }
+    },
+    {
+        "id": 398,
+        "email": "ndiayeveronique57@gmail.com",
+        "first_name": "Veronique",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "4c0d0127-02a3-4bb4-a3c4-7f9d620cbd40",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:44",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:39"
+        }
+    },
+    {
+        "id": 399,
+        "email": "ptitenanou7@gmail.com",
+        "first_name": "Anais",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "7237cbda-621f-47a7-8b55-2e86972e3a87",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:31:44",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:39"
+        }
+    },
+    {
+        "id": 400,
+        "email": "dadi76marji@gmail.com",
+        "first_name": "David",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "f97187d3-d3ef-48af-a3f2-0d5330968819",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:45",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:39"
+        }
+    },
+    {
+        "id": 401,
+        "email": "ousmanenana95@gmail.com",
+        "first_name": "Ousmane",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "8c1c98d0-e1d4-467f-98ca-14e2aa51bf45",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:46",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:39"
+        }
+    },
+    {
+        "id": 402,
+        "email": "Gbeganprince027@gmail.com",
+        "first_name": "Sagbo Expedit Firmin",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "9453bbba-e639-4bef-97e9-e799052a273a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:31:47",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:25:40"
+        }
+    },
+    {
+        "id": 403,
+        "email": "Jean.fesquet@sfr.fr",
+        "first_name": "Jean",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "6dd451e7-21ed-4b78-be05-5ca3bb4a4f0a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:48",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:40"
+        }
+    },
+    {
+        "id": 405,
+        "email": "mhasenfratz33@gmail.com",
+        "first_name": "Michael",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "40ee248c-1ba7-4a18-85b3-34a7c4cde6ab",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:31:49",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:40"
+        }
+    },
+    {
+        "id": 406,
+        "email": "fauteuxoceanne@gmail.com",
+        "first_name": "Océanne",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "e78ca80a-6dd8-49cf-81f8-0e000f24506e",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:31:50",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:25:40"
+        }
+    },
+    {
+        "id": 408,
+        "email": "jeanlouiskervens537@gmail.com",
+        "first_name": "Kervens",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "a380df44-250c-455b-88cc-91e3f0227568",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:51",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:41"
+        }
+    },
+    {
+        "id": 409,
+        "email": "pouliana4@gmail.com",
+        "first_name": "Katia",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "928fa04d-6e91-407a-82dc-432d892cffdd",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:31:51",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:41"
+        }
+    },
+    {
+        "id": 410,
+        "email": "westeasyjean@gmail.com",
+        "first_name": "Westervens",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "0d5aea1d-1682-43ca-9097-c7cb5b4e160b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:52",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:41"
+        }
+    },
+    {
+        "id": 411,
+        "email": "pierrelouisruben@gmail.com",
+        "first_name": "Ruben",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "b59819d2-4c58-47e6-9974-cccde1a45a17",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:31:53",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:42"
+        }
+    },
+    {
+        "id": 415,
+        "email": "mboupf324@gmail.com",
+        "first_name": "Mame faty",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "e99e91c8-6a33-4822-be2e-1d113ad53e8d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:54",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:42"
+        }
+    },
+    {
+        "id": 416,
+        "email": "toni.vatin@gmail.com",
+        "first_name": "Toni",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "c6375b63-5ed8-4024-873a-0686b4478346",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:55",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:42"
+        }
+    },
+    {
+        "id": 417,
+        "email": "lolitika@orange.fr",
+        "first_name": "Odile",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "15a60920-d7a3-419f-b0e8-90dc74881535",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:31:55",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:42"
+        }
+    },
+    {
+        "id": 418,
+        "email": "ritishmooneeram10@gmail.com",
+        "first_name": "Ritish",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "ac96e366-2ef3-4e16-b60a-c2d1378f693d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:31:56",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:43"
+        }
+    },
+    {
+        "id": 419,
+        "email": "daocolonel@gmail.com",
+        "first_name": "Ousmane",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "eb022d30-7251-4646-a4cd-cc5e7e547e0b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:57",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:43"
+        }
+    },
+    {
+        "id": 420,
+        "email": "tchegnonelie@gmail.com",
+        "first_name": "Koffi Étienne",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "4eeb8a36-06e4-483b-8f66-d19796dec945",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:31:58",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:43"
+        }
+    },
+    {
+        "id": 421,
+        "email": "veroniquevictorialucas@gmail.com",
+        "first_name": "Véronique",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "e2d61c68-3118-4b6f-93af-2d54d186f287",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:31:58",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:25:43"
+        }
+    },
+    {
+        "id": 422,
+        "email": "adamsouedraogo474@gmail.com",
+        "first_name": "Adama",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "33808712-f95d-4805-be53-06409869b687",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:31:59",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:44"
+        }
+    },
+    {
+        "id": 424,
+        "email": "virginiebenech69@gmail.com",
+        "first_name": "Virginie",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "526b9d0c-bfca-4cca-8b3d-50c55ef66a0f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:00",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:44"
+        }
+    },
+    {
+        "id": 425,
+        "email": "math.alberto5414@gmail.com",
+        "first_name": "Mathieu",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "755836e1-c27d-46e1-ad64-84ba1a28ef7b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:32:01",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:44"
+        }
+    },
+    {
+        "id": 426,
+        "email": "megounee@hotmail.fr",
+        "first_name": "Maxime",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "274c5757-0cf8-495e-a960-3e2cc4eb3705",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:32:01",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:44"
+        }
+    },
+    {
+        "id": 428,
+        "email": "yattpapi00@gmail.com",
+        "first_name": "Papii",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "9b994849-0aa6-468f-8308-a350dadc3652",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:32:02",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:45"
+        }
+    },
+    {
+        "id": 429,
+        "email": "cheikhkone1891@gmail.com",
+        "first_name": "Cheikh fanta",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "34f6e487-d822-4f7b-a49d-81474012fcfd",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:32:03",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:45"
+        }
+    },
+    {
+        "id": 430,
+        "email": "gradaali75@gmail.com",
+        "first_name": "Ali",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "23284d63-7654-40d7-8c8b-3e68d00bb232",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:32:04",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:25:45"
+        }
+    },
+    {
+        "id": 637,
+        "email": "sandrinevalet9@gmail.com",
+        "first_name": "Sandrine",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:05",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:25:46"
+        }
+    },
+    {
+        "id": 433,
+        "email": "stevenfintakpa7@gmail.com",
+        "first_name": "Steven",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "dc0da0f4-6156-484c-8ebb-45356d9bacea",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:32:05",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:46"
+        }
+    },
+    {
+        "id": 434,
+        "email": "esaieagbassa93@gmail.com",
+        "first_name": "Esaïe",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "82b51074-b3d4-4f31-8c97-b449d923f0bd",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:32:06",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:25:47"
+        }
+    },
+    {
+        "id": 435,
+        "email": "leonildeesdras@gmail.com",
+        "first_name": "Léonilde Esdras",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "157bcefa-40a7-4758-af3e-8a80a1f12016",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Lion - 2024-09-16.html": "2024-09-16 19:32:07",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:25:47"
+        }
+    },
+    {
+        "id": 437,
+        "email": "yaolyndatresorjocelyne@gmail.com",
+        "first_name": "Yao Lynda trésor Jocelyne",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "8f334eba-a14f-4c6a-8495-6557854db920",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:32:08",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:47"
+        }
+    },
+    {
+        "id": 442,
+        "email": "sohlonadje18@gmail.com",
+        "first_name": "Adjé",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "60a3521a-3258-4352-b860-750a7ac5319c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:32:09",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:47"
+        }
+    },
+    {
+        "id": 444,
+        "email": "righipetrolium69@gmail.com",
+        "first_name": "Messaouda",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "e4c382a8-9423-48a5-adcc-8006f5b58b96",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:32:10",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:48"
+        }
+    },
+    {
+        "id": 445,
+        "email": "boulays766@gmail.com",
+        "first_name": "Sylvie",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "7e6a492c-5ffe-48e6-8e75-448983b2abd8",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:32:11",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:48"
+        }
+    },
+    {
+        "id": 446,
+        "email": "jmavambumediata@gmail.com",
+        "first_name": "Jennifer",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "e4575461-2b9e-4ce5-b4a1-125a083f170f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:11",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:48"
+        }
+    },
+    {
+        "id": 449,
+        "email": "severinedoisne62@gmail.com",
+        "first_name": "Severine",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "26b340fa-78e4-43bf-84ad-6314ad277e0a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:32:12",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:48"
+        }
+    },
+    {
+        "id": 450,
+        "email": "nguricolas@gmail.com",
+        "first_name": "Nathalie",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "3f8b8b87-702c-4f95-8c6d-919fa491312f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:13",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:49"
+        }
+    },
+    {
+        "id": 451,
+        "email": "tefanaumelany2@gmail.com",
+        "first_name": "Mélanie",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "39afdc83-7827-43ab-b053-93fd8da1cf60",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:32:14",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:49"
+        }
+    },
+    {
+        "id": 452,
+        "email": "fortalezadealmeida@gmail.com",
+        "first_name": "Joselita",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "f107049c-b86f-479e-9d5e-3a8678bb9969",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:32:14",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:49"
+        }
+    },
+    {
+        "id": 454,
+        "email": "vivi479@msn.com",
+        "first_name": "Evelyne",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "2a6043b4-1667-4abf-af9a-503d6b0b095c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:32:15",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:25:50"
+        }
+    },
+    {
+        "id": 455,
+        "email": "biboucreole@gmail.com",
+        "first_name": "Cindy",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "fbd91d06-0868-4e68-bc42-a95e22e6c838",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:32:16",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:50"
+        }
+    },
+    {
+        "id": 457,
+        "email": "beyinanoahemmanuel@gmail.com",
+        "first_name": "Emmanuel",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "83742b09-4f30-4886-8650-94fd69de2bc4",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:17",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:50"
+        }
+    },
+    {
+        "id": 460,
+        "email": "rabimoussa1995@gmail.com",
+        "first_name": "Zékia",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "5cf5056d-738a-4708-a141-79fa07a7a237",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:32:17",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:51"
+        }
+    },
+    {
+        "id": 461,
+        "email": "ayetsicasimir@gmail.com",
+        "first_name": "Casimir",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "6219dfe8-12d8-4515-baf8-af6cf22c8fb7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:32:18",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:51"
+        }
+    },
+    {
+        "id": 462,
+        "email": "jeanmarievianney009@gmail.com",
+        "first_name": "Jean Marie Vianney",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "1e4358fa-fad3-45f7-9975-93bac1a5c2e9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:32:19",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:51"
+        }
+    },
+    {
+        "id": 463,
+        "email": "casu.cristina195@gmail.com",
+        "first_name": "Cristina",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "64b83bfd-fcc6-46c3-bfd5-9a9b781e2b18",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:20",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:51"
+        }
+    },
+    {
+        "id": 465,
+        "email": "sandrine.shiatsu@outlook.fr",
+        "first_name": "Sandrine",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "3f9a7962-242e-4f69-acf8-9568950fb490",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:32:20",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:52"
+        }
+    },
+    {
+        "id": 466,
+        "email": "togbedeo56@gmail.com",
+        "first_name": "Fulbert Deo-Gracias",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "a3ec1a53-a748-40d7-a53f-5db874b2f328",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:21",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:52"
+        }
+    },
+    {
+        "id": 467,
+        "email": "isamarcoux22@gmail.com",
+        "first_name": "Isabelle marcoux",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "6d8131e0-7cbf-4321-b04e-3944e65fd4a8",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:22",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:52"
+        }
+    },
+    {
+        "id": 468,
+        "email": "aurelie.gedeau@gmail.com",
+        "first_name": "Aurelie",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "cf824cb7-57e6-49da-a15c-d60d16f7ee2a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:23",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:25:52"
+        }
+    },
+    {
+        "id": 469,
+        "email": "moanapani@gmail.com",
+        "first_name": "Moana",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "409cfb50-7945-4252-af0a-276d8d0d4ba8",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:24",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:53"
+        }
+    },
+    {
+        "id": 470,
+        "email": "tokpabijou560@gmail.com",
+        "first_name": "YaoEmmanuel",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "297f4f42-4bda-4198-9626-bae925d97929",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:32:25",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:53"
+        }
+    },
+    {
+        "id": 471,
+        "email": "odevartelodie15@hotmail.com",
+        "first_name": "Elodie",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "4ef663ea-eeff-4700-91d3-c08096012bc5",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:32:26",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:53"
+        }
+    },
+    {
+        "id": 472,
+        "email": "klohounhumbert7@gmail.com",
+        "first_name": "Humbert",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "5448ef3a-2687-44f8-96b9-48c2ff7ec43e",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:26",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:53"
+        }
+    },
+    {
+        "id": 476,
+        "email": "astouniane85@gmail.com",
+        "first_name": "Mado",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "fae658c4-89b2-4add-a33a-137e9b92870d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:32:27",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:54"
+        }
+    },
+    {
+        "id": 478,
+        "email": "lonneuxk@gmail.com",
+        "first_name": "Katty",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "7e474b71-c759-4a48-9594-a6c10733b976",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:32:28",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:25:54"
+        }
+    },
+    {
+        "id": 479,
+        "email": "RachidKabore3855@gmail.com",
+        "first_name": "Rachid",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "aa739880-d8e0-4d9a-9a5d-e98f90d48163",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:32:29",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:54"
+        }
+    },
+    {
+        "id": 480,
+        "email": "exilussainmelamartine8@gmail.com",
+        "first_name": "Lamartine",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "224760ee-ca55-44bf-ada6-f43639a9ba1f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:32:30",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:55"
+        }
+    },
+    {
+        "id": 481,
+        "email": "gjan86@hotmail.ch",
+        "first_name": "Gwendoline",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "dd6eda07-0926-462a-b7ac-e2929fd1b8b7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:30",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:25:55"
+        }
+    },
+    {
+        "id": 482,
+        "email": "heiragitoomaru75@gmail.com",
+        "first_name": "Heiragi",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "beee2fb6-869c-45b6-88c1-3ca1c0782fd9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:31",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:55"
+        }
+    },
+    {
+        "id": 483,
+        "email": "ogoudjobiolowunfumi@gmail.com",
+        "first_name": "Héléna",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "7b46ee84-0f79-45d5-b422-6e2ea9b1ed9c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:32",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:25:55"
+        }
+    },
+    {
+        "id": 484,
+        "email": "anselmeiropa2@gmail.com",
+        "first_name": "𝔸𝕟𝕤𝕖𝕝𝕞𝕖",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "edf706dd-f45e-4a23-b459-ec1ce1e02c34",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:32:33",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:56"
+        }
+    },
+    {
+        "id": 486,
+        "email": "mamadoutahiroud005@gmail.com",
+        "first_name": "Mamadou tahirou",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "12d3ea96-d163-4912-9178-1ecf9ec84b06",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:33",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:56"
+        }
+    },
+    {
+        "id": 487,
+        "email": "patabby.pl@gmail.com",
+        "first_name": "Patrick",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "ace6a905-4477-4a9a-9882-a0acaba906a5",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:34",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:56"
+        }
+    },
+    {
+        "id": 488,
+        "email": "luc-cadiot@orange.fr",
+        "first_name": "Luc",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "dc0a8a6b-5b96-45e9-812e-db5ea384ddf1",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:32:35",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:25:56"
+        }
+    },
+    {
+        "id": 489,
+        "email": "dedehillah14@gmail.com",
+        "first_name": "Arlette",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "801c9b5d-40e8-4800-84bc-415532408723",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:36",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:57"
+        }
+    },
+    {
+        "id": 490,
+        "email": "nclshmw@gmail.com",
+        "first_name": "Nicolas",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "353bb2f7-63b0-4c78-bf54-356845130ff7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:32:36",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:25:57"
+        }
+    },
+    {
+        "id": 491,
+        "email": "theytazpat@gmail.com",
+        "first_name": "Patricia",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "ccb255f8-b5b6-4108-be3a-7e797b564f41",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:32:37",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:25:57"
+        }
+    },
+    {
+        "id": 492,
+        "email": "legerkarolane57@gmail.com",
+        "first_name": "Karolane",
+        "zodiac_sign": "libra",
+        "subscribed": true,
+        "unsubscribe_token": "4919ba08-e1aa-4b9c-8425-3901b4422c04",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Balance - 2024-09-16.html": "2024-09-16 19:32:38",
+            "Weekly Balance - 2024-09-23.html": "2024-09-23 13:25:57"
+        }
+    },
+    {
+        "id": 493,
+        "email": "moustaphadioplg84@gmail.com",
+        "first_name": "Mamadou Moustapha",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "c8d18d84-1c3e-4c40-8995-592218343dae",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:32:39",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:58"
+        }
+    },
+    {
+        "id": 494,
+        "email": "mteikimoniefitu@gmail.com",
+        "first_name": "Daina",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "87af6836-6119-42e9-b71b-21475bd5896c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:40",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:25:58"
+        }
+    },
+    {
+        "id": 495,
+        "email": "lionel070592@gmail.com",
+        "first_name": "Lionel",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "f1ebce0d-10a9-4174-ba9d-482bf08c30db",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:32:41",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:58"
+        }
+    },
+    {
+        "id": 501,
+        "email": "contact@chantalmavel.com",
+        "first_name": "Chantal",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "01c92fd7-7483-462f-844a-a2d8f9d12e12",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:32:42",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:58"
+        }
+    },
+    {
+        "id": 502,
+        "email": "cherismecarlschesly@gmail.com",
+        "first_name": "Carl Schesly",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "ea8d1735-ef11-4f32-81b8-9ecca1abef8b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:32:42",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:25:59"
+        }
+    },
+    {
+        "id": 504,
+        "email": "mariecottard9@gmail.com",
+        "first_name": "Daniel",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "f9c61dd2-2b2e-4d4a-a30c-5af203b29c4c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:43",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:25:59"
+        }
+    },
+    {
+        "id": 506,
+        "email": "nath19051967@gmail.com",
+        "first_name": "Nathalie",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "09691b07-944a-45d5-a204-8ec81d9e001c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:32:44",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:25:59"
+        }
+    },
+    {
+        "id": 507,
+        "email": "annequevy1406@gmail.com",
+        "first_name": "Anne",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "fef6d2e2-12ee-434a-8ee8-6744349d771a",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:32:45",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:25:59"
+        }
+    },
+    {
+        "id": 508,
+        "email": "liliana.i.n.j@gmail.com",
+        "first_name": "Liliana",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "4b92d7a2-60e5-4bc9-a0e9-e6cfd6c96e9c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:32:46",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:25:59"
+        }
+    },
+    {
+        "id": 511,
+        "email": "juscaressimaobame@gmail.com",
+        "first_name": "Naomie",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "ada7e8a9-2752-46ed-8d19-7b66cf769bae",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-16.html": "2024-09-16 19:32:47",
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:26:00"
+        }
+    },
+    {
+        "id": 513,
+        "email": "bilgetstar5@gmail.com",
+        "first_name": "BILALLE",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "b522a861-e0ac-4e85-b9ea-8e8de3dad16c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:48",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:26:00"
+        }
+    },
+    {
+        "id": 514,
+        "email": "loutchainas@gmail.com",
+        "first_name": "Chaïou",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": "14324512-b0a9-4685-9293-5fa7b56bb181",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-16.html": "2024-09-16 19:32:49",
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:26:00"
+        }
+    },
+    {
+        "id": 516,
+        "email": "cedricyeo39@gmail.com",
+        "first_name": "Cedric",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "2c748f59-bfb3-461c-b229-1508983e120d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:49",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:26:01"
+        }
+    },
+    {
+        "id": 518,
+        "email": "pichonneau.christian@gmx.fr",
+        "first_name": "Christian",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "23052984-4411-46b1-b8cc-2b40a614363c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:32:51",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:26:01"
+        }
+    },
+    {
+        "id": 519,
+        "email": "violette418@protonmail.com",
+        "first_name": "Jessika",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": "e2969f2f-93ab-46d9-8d37-caa782076f7b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-16.html": "2024-09-16 19:32:52",
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:26:01"
+        }
+    },
+    {
+        "id": 520,
+        "email": "tollajonas@gmail.com",
+        "first_name": "Jonas",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "b0a220eb-0f2b-4fe1-b2b2-d42ba802a0e6",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:52",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:26:02"
+        }
+    },
+    {
+        "id": 521,
+        "email": "brithanny3112@outlook.fr",
+        "first_name": "Gwenaelle",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "b68d6f1a-0c19-4c98-8478-70d9c7e0ca9b",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:32:53",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:26:02"
+        }
+    },
+    {
+        "id": 523,
+        "email": "youriessadone@gmail.com",
+        "first_name": "Youri",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "c33c73bf-ebee-4351-9979-9e8a1979c2af",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 19:32:54",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:26:02"
+        }
+    },
+    {
+        "id": 525,
+        "email": "ngomojeremie7@gmail.com",
+        "first_name": "Jérémie",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "8346f20d-c858-4dc8-872b-607bfa1eb3c8",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:55",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:26:02"
+        }
+    },
+    {
+        "id": 526,
+        "email": "kadidjatoumyriamsanogo@gmail.com",
+        "first_name": "Myriam",
+        "zodiac_sign": "aries",
+        "subscribed": true,
+        "unsubscribe_token": "d281bcef-337b-4951-8c4d-39b373b011c7",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Bélier - 2024-09-16.html": "2024-09-16 19:32:56",
+            "Weekly Bélier - 2024-09-23.html": "2024-09-23 13:26:03"
+        }
+    },
+    {
+        "id": 529,
+        "email": "princodiro94@gmail.com",
+        "first_name": "Prince",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "0de89615-5bcb-400f-8b65-08727fdf736c",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:32:57",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:26:03"
+        }
+    },
+    {
+        "id": 530,
+        "email": "amirandiaye88@gmail.com",
+        "first_name": "Adja",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "ee2dcc60-0af2-4c30-bdf0-aca81148e6f6",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:58",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:26:03"
+        }
+    },
+    {
+        "id": 532,
+        "email": "claudhie.mca@gmail.com",
+        "first_name": "CLUSH",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "6b1df1e4-3aa9-4587-9a0a-cb55191f8349",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:32:59",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:26:03"
+        }
+    },
+    {
+        "id": 595,
+        "email": "hindamouhni94@gmail.com",
+        "first_name": "Hinda",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "f105000d-913c-4a0d-994b-e3a1298401d5",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:33:00",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:26:03"
+        }
+    },
+    {
+        "id": 596,
+        "email": "babou8229@orange.fr",
+        "first_name": "Béatrice",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": "0beb8578-7e4a-450a-9b41-54cb41a9e17f",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-16.html": "2024-09-16 19:33:01",
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:26:04"
+        }
+    },
+    {
+        "id": 597,
+        "email": "gosselinmarie410@gmail.com",
+        "first_name": "Marie-josee",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": "ca8355e5-6ec7-477f-a17b-c5390cf3715d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-16.html": "2024-09-16 19:33:01",
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:26:04"
+        }
+    },
+    {
+        "id": 600,
+        "email": "virginieobert50@gmail.com",
+        "first_name": "virginie",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "7d13dd8d-37dc-4ca2-acd8-c39c14dfec82",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:33:02",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:26:04"
+        }
+    },
+    {
+        "id": 601,
+        "email": "edc12@orange.fr",
+        "first_name": "Évangélista",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": "afde1b42-0090-49f4-834a-03690d6b170d",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-16.html": "2024-09-16 19:33:03",
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:26:04"
+        }
+    },
+    {
+        "id": 605,
+        "email": "astrologietok@gmail.com",
+        "first_name": "Emma",
+        "zodiac_sign": "leo",
+        "subscribed": true,
+        "unsubscribe_token": "5d07e420-a920-46a9-885b-b3591f558d84",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly leo - 2024-09-10.html": "2024-09-10 16:31:56",
+            "Weekly Lion - 2024-09-23.html": "2024-09-23 13:26:05"
+        }
+    },
+    {
+        "id": 628,
+        "email": "gledemonneric@gmail.com",
+        "first_name": "GLEDE",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": "31ee701c-3be4-42da-8ad6-79bc98ea4378",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-16.html": "2024-09-16 14:03:01",
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:26:05"
+        }
+    },
+    {
+        "id": 630,
+        "email": "sam.bc974@gmail.com",
+        "first_name": "Bruno",
+        "zodiac_sign": "capricorn",
+        "subscribed": true,
+        "unsubscribe_token": "d34a8605-56d9-4236-9322-e2cc16238350",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Capricorne - 2024-09-16.html": "2024-09-16 19:33:04",
+            "Weekly Capricorne - 2024-09-23.html": "2024-09-23 13:26:05"
+        }
+    },
+    {
+        "id": 631,
+        "email": "micheltessier27@hotmail.com",
+        "first_name": "Michel",
+        "zodiac_sign": "scorpio",
+        "subscribed": true,
+        "unsubscribe_token": "07b89003-a396-48cf-aa81-697c0c146ab9",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Scorpion - 2024-09-16.html": "2024-09-16 19:33:04",
+            "Weekly Scorpion - 2024-09-23.html": "2024-09-23 13:26:05"
+        }
+    },
+    {
+        "id": 633,
+        "email": "empereurgeradox@gmail.com",
+        "first_name": "Gérard honoré",
+        "zodiac_sign": "gemini",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Gémeaux - 2024-09-23.html": "2024-09-23 13:26:06"
+        }
+    },
+    {
+        "id": 653,
+        "email": "miyamonaardainkingston@gmail.com",
+        "first_name": "Ardain",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:26:06"
+        }
+    },
+    {
+        "id": 656,
+        "email": "Stefanyb@hotmail.ca",
+        "first_name": "Stéphanie",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:26:07"
+        }
+    },
+    {
+        "id": 659,
+        "email": "doumbiaadama151@gmail.com",
+        "first_name": "Adama",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:26:07"
+        }
+    },
+    {
+        "id": 660,
+        "email": "solangeholzmann73@gmail.com",
+        "first_name": "Solange",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:26:07"
+        }
+    },
+    {
+        "id": 664,
+        "email": "vickymuller89@gmail.com",
+        "first_name": "Vicky",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:26:08"
+        }
+    },
+    {
+        "id": 666,
+        "email": "ilda.marrucho@gmail.com",
+        "first_name": "Ilda",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:26:08"
+        }
+    },
+    {
+        "id": 634,
+        "email": "mariezialor@gmail.com",
+        "first_name": "Renea",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:26:08"
+        }
+    },
+    {
+        "id": 635,
+        "email": "ibiron43@gmail.com",
+        "first_name": "Isabelle",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:26:08"
+        }
+    },
+    {
+        "id": 636,
+        "email": "khelifibilly@gmail.com",
+        "first_name": "Billy",
+        "zodiac_sign": "sagittarius",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Sagittaire - 2024-09-23.html": "2024-09-23 13:26:09"
+        }
+    },
+    {
+        "id": 655,
+        "email": "Balle23@gmail.com",
+        "first_name": "ballè",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:26:09"
+        }
+    },
+    {
+        "id": 657,
+        "email": "cd220161@gmail.com",
+        "first_name": "Dominique",
+        "zodiac_sign": "aquarius",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Verseau - 2024-09-23.html": "2024-09-23 13:26:09"
+        }
+    },
+    {
+        "id": 510,
+        "email": "clossejean-louis97@hotmail.fr",
+        "first_name": "Jean-louis",
+        "zodiac_sign": "taurus",
+        "subscribed": true,
+        "unsubscribe_token": "65a08e6e-a230-47c1-85fa-2c522e821545",
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Taureau - 2024-09-23.html": "2024-09-23 13:26:09"
+        }
+    },
+    {
+        "id": 663,
+        "email": "Wijnants.jessica@gmail.com",
+        "first_name": "Jessica",
+        "zodiac_sign": "virgo",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Vierge - 2024-09-23.html": "2024-09-23 13:26:10"
+        }
+    },
+    {
+        "id": 665,
+        "email": "josephmarara7@gmail.com",
+        "first_name": "Joseph",
+        "zodiac_sign": "pisces",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Poisson - 2024-09-23.html": "2024-09-23 13:26:10"
+        }
+    },
+    {
+        "id": 669,
+        "email": "calosavielpeleloderal007@gmail.com",
+        "first_name": "Calos",
+        "zodiac_sign": "cancer",
+        "subscribed": true,
+        "unsubscribe_token": null,
+        "is_weekly_horoscope_sent": true,
+        "newsletter_log": {
+            "Weekly Cancer - 2024-09-23.html": "2024-09-23 13:26:10"
+        }
+    }
+]
