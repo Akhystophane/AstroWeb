@@ -1,9 +1,12 @@
+import base64
 import logging
 import os
 import json
 from rest_framework import authentication, exceptions
 import firebase_admin
 from firebase_admin import auth as firebase_auth
+from firebase_admin import credentials
+
 
 # Initialisez l'application Firebase Admin si ce n'est pas déjà fait
 from .models import React, UserProfile
@@ -15,13 +18,20 @@ class FirebaseAuthentication(authentication.BaseAuthentication):
         # Vérifiez si Firebase Admin SDK est déjà initialisé
         if not firebase_admin._apps:
             try:
-                # Récupérez les informations d'authentification Firebase à partir des variables d'environnement
-                firebase_credentials = os.getenv('FIREBASE_ADMIN_CREDENTIALS')
-                if not firebase_credentials:
-                    raise ValueError("Firebase credentials are not set in the environment")
+                # Récupérer la chaîne encodée en Base64 depuis les variables d'environnement
+                firebase_credentials_b64 = os.getenv('FIREBASE_ADMIN_CREDENTIALS_BASE64')
+                if not firebase_credentials_b64:
+                    raise ValueError(
+                        "Les informations d'authentification Firebase ne sont pas définies dans les variables d'environnement.")
 
-                # Charger et convertir la chaîne JSON en dictionnaire Python
-                cred = firebase_admin.credentials.Certificate(json.loads(firebase_credentials))
+                # Décoder la chaîne Base64 pour obtenir le JSON
+                firebase_credentials_json = base64.b64decode(firebase_credentials_b64).decode('utf-8')
+
+                # Charger le JSON en dictionnaire Python
+                cred_dict = json.loads(firebase_credentials_json)
+
+                # Initialiser le SDK Firebase avec les informations d'identification
+                cred = credentials.Certificate(cred_dict)
                 firebase_admin.initialize_app(cred)
             except Exception as e:
                 logger.error(f"Erreur lors de l'initialisation de Firebase Admin SDK: {e}")
