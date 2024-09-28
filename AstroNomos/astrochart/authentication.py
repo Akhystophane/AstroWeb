@@ -19,7 +19,7 @@ class FirebaseAuthentication(authentication.BaseAuthentication):
         if not firebase_admin._apps:
             try:
                 # Récupérer la chaîne encodée en Base64 depuis les variables d'environnement
-                firebase_credentials_b64 = os.getenv('FIREBASE_ADMIN_CREDENTIALS_BASE64')
+                firebase_credentials_b64 = os.getenv('FIREBASE_ADMIN_CREDENTIALS')
                 if not firebase_credentials_b64:
                     raise ValueError(
                         "Les informations d'authentification Firebase ne sont pas définies dans les variables d'environnement.")
