@@ -10,3 +10,4 @@ django-cors-headers==4.4.0
 django-on-heroku
 gunicorn
 pyswisseph==2.10.03.2
+firebase-admin
