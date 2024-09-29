@@ -18,16 +18,17 @@ from django.contrib import admin
 from django.urls import path, include
 from newsletter import views as newsletter_views
 
-from astrochart.views import ReactItemView, TransitChartView, BirthChartView, UserReactDataView
+from astrochart.views import ReactItemView, TransitChartView, BirthChartView, UserReactDataView, FrontendAppView
 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('newsletter/', include('newsletter.urls')),
     path('newsletter/', newsletter_views.horoscope, name='newsletter'),
-    path('', ReactItemView.as_view(), name='landing-page'),
+    path('react', ReactItemView.as_view(), name='react-items'),
     # path('react/<str:firebase_uid>', ReactDetailView.as_view(), name='react-detail-update'),
     path('user/data/<str:firebase_uid>/', ReactItemView.as_view(), name='user-data'),  # Inclure firebase_uid
+    path('', FrontendAppView.as_view(), name='frontend'),
 
     path('charts/birth/', BirthChartView.as_view(), name='birth-chart'),
     path('charts/transit/', TransitChartView.as_view(), name='transit-chart'),

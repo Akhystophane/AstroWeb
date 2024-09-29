@@ -228,30 +228,17 @@ class UserProfileView(generics.RetrieveUpdateAPIView):
 from rest_framework import generics, permissions
 from .models import React
 from .serializer import ReactSerializer
-from rest_framework.permissions import AllowAny
-
 
 class ReactItemView(generics.RetrieveUpdateDestroyAPIView):
     queryset = React.objects.all()
     serializer_class = ReactSerializer
-    permission_classes = [AllowAny]  # Autorise l'accès à tous
+    permission_classes = [permissions.IsAuthenticated]
+    lookup_field = 'firebase_uid'
 
     def get_queryset(self):
-        # Si l'utilisateur est authentifié, filtrer par firebase_uid
-        if self.request.user.is_authenticated:
-            firebase_uid = self.request.user.uid  # Obtenez le UID depuis le token Firebase
-            return React.objects.filter(firebase_uid=firebase_uid)
-        # Sinon, retourner un ensemble vide ou l'ensemble complet selon ton besoin
-        return React.objects.none()  # ou React.objects.all() si tu veux montrer tous les objets aux non-authentifiés
-
-    def retrieve(self, request, *args, **kwargs):
-        if not request.user.is_authenticated:
-            # Gérer les utilisateurs non authentifiés
-            return Response(
-                {"detail": "Vous devez être authentifié pour accéder à ces données."},
-                status=status.HTTP_401_UNAUTHORIZED
-            )
-        return super().retrieve(request, *args, **kwargs)
+        # Filtrer les données pour n'afficher que celles de l'utilisateur authentifié
+        firebase_uid = self.request.user.uid  # Obtenez le UID depuis le token Firebase
+        return React.objects.filter(firebase_uid=firebase_uid)
 
 
 from rest_framework.views import APIView
@@ -352,3 +339,7 @@ class UserReactDataView(APIView):
         serializer = ReactSerializer(react_data, many=True)
         return Response(serializer.data)
 
+from django.views.generic import TemplateView
+
+class FrontendAppView(TemplateView):
+    template_name = 'index.html'
