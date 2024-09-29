@@ -141,7 +141,7 @@ STATICFILES_DIRS = [
 ]
 
 # Extra places for collectstatic to find static files.
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.ManifestStaticFilesStorage'
 
 # Activate Django-Heroku.
 django_on_heroku.settings(locals())
