@@ -16,9 +16,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'skf&5(@%=bi3r#jgeq8r7_x=c_t8%%tz6zxa)whqo-o8sn=t&i' #ouais je sais ca doit pas etre en clair
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = 'TRUE'
+DEBUG = True
 
-ALLOWED_HOSTS = ['hidden-lowlands-42657.herokuapp.com', 'localhost', '127.0.0.1', 'astro-nomos.com']
+# ALLOWED_HOSTS = ['hidden-lowlands-42657.herokuapp.com', 'localhost', '127.0.0.1', 'astro-nomos.com']
+ALLOWED_HOSTS = ['*']
+
 SESSION_COOKIE_SECURE = False
 
 # Application definition
