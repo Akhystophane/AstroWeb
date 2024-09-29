@@ -4,12 +4,17 @@ import svgr from 'vite-plugin-svgr';
 
 export default defineConfig({
   plugins: [react(), svgr()],
+  base: '/static/',  // Définit le chemin de base pour les assets
   build: {
-    assetsDir: 'assets', // Assurez-vous que les fichiers sont dans le dossier `assets`
+    outDir: 'dist',  // Dossier de sortie du build
+    assetsDir: 'assets',  // Dossier où seront placés les assets
     rollupOptions: {
       output: {
-        assetFileNames: 'assets/[name][extname]'  // Conserve le nom des fichiers sans hash
-      }
-    }
-  }
+        // Préserve la structure des dossiers et les noms de fichiers
+        assetFileNames: ({ name }) => {
+          return 'assets/[name][extname]';  // Conserve le nom du fichier et son extension
+        },
+      },
+    },
+  },
 });
