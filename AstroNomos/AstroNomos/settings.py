@@ -71,7 +71,10 @@ ROOT_URLCONF = 'AstroNomos.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [
+            os.path.join(BASE_DIR, 'templates'),         # Votre dossier de templates principal
+            os.path.join(BASE_DIR, 'static_frontend'),   # Ajoutez ce chemin
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
