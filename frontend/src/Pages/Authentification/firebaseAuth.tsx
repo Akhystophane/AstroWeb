@@ -9,7 +9,7 @@ import { useEffect, useState } from "react";
 
 const firebaseConfig = {
     apiKey: "AIzaSyBBimzONdvbR7yujr7NPK4SQWGGo2EfMuE",
-    authDomain: "astronomos-ef1e7.firebaseapp.com",
+    authDomain: "astronomos-fee5d7c001d2.herokuapp.com",
     projectId: "astronomos-ef1e7",
     storageBucket: "astronomos-ef1e7.appspot.com",
     messagingSenderId: "58453053128",
