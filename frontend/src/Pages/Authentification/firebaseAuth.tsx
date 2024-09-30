@@ -9,7 +9,7 @@ import { useEffect, useState } from "react";
 
 const firebaseConfig = {
     apiKey: "AIzaSyBBimzONdvbR7yujr7NPK4SQWGGo2EfMuE",
-    authDomain: "www.astro-nomos.com",
+    authDomain: "astronomos-ef1e7.firebaseapp.com",
     projectId: "astronomos-ef1e7",
     storageBucket: "astronomos-ef1e7.appspot.com",
     messagingSenderId: "58453053128",
@@ -74,11 +74,11 @@ export const signIn = (email: string, password: string, onSuccess?: () => void):
     return signInAnonymously(auth)
         .then(userCredential => {
             // You can handle the successful login here if needed
-            //console.log("User signed in anonymously with UID:", userCredential.user.uid);
+            console.log("User signed in anonymously with UID:", userCredential.user.uid);
             return userCredential; // Optional: return the userCredential for further processing
         })
         .catch(error => {
-            //console.error("Error signing in anonymously:", error);
+            console.error("Error signing in anonymously:", error);
             throw error; // Optional: re-throw the error for the caller to handle
         });
 };
