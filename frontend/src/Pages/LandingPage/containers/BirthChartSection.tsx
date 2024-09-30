@@ -63,6 +63,11 @@ const BirthChartSection = () => {
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [isBirthTime, setIsBirthTime] = useState(false); // For the "Horoscope du jour" checkbox
 
+  const birthChartUrl = process.env.NODE_ENV === 'production'
+    ? 'http://www.astro-nomos.com/charts/birth/'
+    : 'http://localhost:8000/charts/birth/';
+
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!idToken) {
@@ -74,7 +79,7 @@ const BirthChartSection = () => {
     setErrorMessage(null);
   
     try {
-      const response = await axios.post('http://localhost:8000/charts/birth/', formData, {
+      const response = await axios.post(birthChartUrl, formData, {
         headers: {
           'Authorization': `Bearer ${idToken}`
         }

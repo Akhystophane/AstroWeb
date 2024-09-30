@@ -90,6 +90,10 @@ const HoroscopeSection = () => {
   };
 
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+
+  const transitChartUrl = process.env.NODE_ENV === 'production'
+  ? 'http://www.astro-nomos.com/charts/transit/'
+  : 'http://localhost:8000/charts/transit/';
   
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -104,7 +108,7 @@ const HoroscopeSection = () => {
         throw new Error('ID Token not available');
       }
   
-      const response = await axios.post('http://localhost:8000/charts/transit/', formData,
+      const response = await axios.post(transitChartUrl, formData,
       {
         headers: {
           'Authorization': `Bearer ${idToken}`
