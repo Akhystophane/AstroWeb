@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Firebase Auth Iframe</title>
-    <script src="https://www.gstatic.com/firebasejs/10.3.0/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/10.3.0/firebase-auth.js"></script>
-    <script>
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.3.0/firebase-app.js";
+        import { getAuth } from "https://www.gstatic.com/firebasejs/10.3.0/firebase-auth.js";
         // Configuration Firebase
         var firebaseConfig = {
                 apiKey: "AIzaSyBBimzONdvbR7yujr7NPK4SQWGGo2EfMuE",
@@ -17,6 +17,7 @@
                 measurementId: "G-R75EH3WQRF"
               };
         firebase.initializeApp(firebaseConfig);
+        const auth = firebase.auth();
     </script>
 </head>
 <body>
