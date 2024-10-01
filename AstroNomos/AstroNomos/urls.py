@@ -19,6 +19,7 @@ from django.urls import path, include
 from newsletter import views as newsletter_views
 
 from astrochart.views import ReactItemView, TransitChartView, BirthChartView, UserReactDataView, FrontendAppView
+from static_frontend.__.auth import TemplateView
 
 
 urlpatterns = [
@@ -34,5 +35,6 @@ urlpatterns = [
     path('charts/transit/', TransitChartView.as_view(), name='transit-chart'),
     # path('user/data/', ReactItemView.as_view(), name='user-data'),
     path('user-react-data/', UserReactDataView.as_view(), name='user-react-data'),
+    path('__/auth/iframe', TemplateView.as_view(template_name="__/auth/iframe.html")),
 
 ]
