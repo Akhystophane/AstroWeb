@@ -16,8 +16,11 @@
                 appId: "1:58453053128:web:977f164540c7d204639ffd",
                 measurementId: "G-R75EH3WQRF"
               };
-        firebase.initializeApp(firebaseConfig);
-        const auth = firebase.auth();
+        // Initialiser Firebase
+        const app = initializeApp(firebaseConfig);
+
+        // Obtenir une instance du service d'authentification
+        const auth = getAuth(app);
     </script>
 </head>
 <body>
