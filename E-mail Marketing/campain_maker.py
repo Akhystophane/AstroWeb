@@ -210,7 +210,7 @@ SENDER = "newsletter@astro-nomos.com"
 AWS_REGION = "us-east-1"
 client = boto3.client('ses', region_name=AWS_REGION)
 
-update_record()
+update_record(reset=True)
 
 # suscribers = [(9, 'emnl.busi@outlook.fr', 'Emmanuel', 'gemini')]
 # suscribers, _ = get_dataset()

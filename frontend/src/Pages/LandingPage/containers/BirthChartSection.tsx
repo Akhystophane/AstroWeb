@@ -37,14 +37,14 @@ const BirthChartSection = () => {
         //console.log('Utilisateur non connecté. Connexion anonyme en cours...');
         signInAnonymouslyCustom()
           .then(async (result) => {
-            //console.log('Signed in anonymously', result.user);
+            console.log('Signed in anonymously', result.user);
             if (result.user) {
               const token = await result.user.getIdToken();
               setIdToken(token);
             }
           })
           .catch(_error => {
-            //console.error('Anonymous sign-in failed', error);
+            console.error('Anonymous sign-in failed', _error);
           });
       }
     });
@@ -64,7 +64,7 @@ const BirthChartSection = () => {
   const [isBirthTime, setIsBirthTime] = useState(false); // For the "Horoscope du jour" checkbox
 
   const birthChartUrl = process.env.NODE_ENV === 'production'
-    ? 'http://www.astro-nomos.com/charts/birth/'
+    ? 'https://astronomos-fee5d7c001d2.herokuapp.com/charts/birth/'
     : 'http://localhost:8000/charts/birth/';
 
 
