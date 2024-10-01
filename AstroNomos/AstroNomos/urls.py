@@ -19,7 +19,7 @@ from django.urls import path, include
 from newsletter import views as newsletter_views
 
 from astrochart.views import ReactItemView, TransitChartView, BirthChartView, UserReactDataView, FrontendAppView
-from static_frontend.__.auth import TemplateView
+from django.views.generic import TemplateView
 
 
 urlpatterns = [
