@@ -64,7 +64,7 @@ const BirthChartSection = () => {
   const [isBirthTime, setIsBirthTime] = useState(false); // For the "Horoscope du jour" checkbox
 
   const birthChartUrl = process.env.NODE_ENV === 'production'
-    ? 'https://astronomos-fee5d7c001d2.herokuapp.com/charts/birth/'
+    ? 'https://www.astro-nomos.com/charts/birth/'
     : 'http://localhost:8000/charts/birth/';
 
 

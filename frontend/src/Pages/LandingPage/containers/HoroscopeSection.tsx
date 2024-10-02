@@ -92,7 +92,7 @@ const HoroscopeSection = () => {
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
   const transitChartUrl = process.env.NODE_ENV === 'production'
-  ? 'https://astronomos-fee5d7c001d2.herokuapp.com/charts/transit/'
+  ? 'https://www.astro-nomos.com/charts/transit/'
   : 'http://localhost:8000/charts/transit/';
   
   const handleSubmit = async (e: React.FormEvent) => {
