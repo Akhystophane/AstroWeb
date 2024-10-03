@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Firebase Auth Handler</title>
+    <script type="module">
+        // Importer les modules nécessaires de Firebase
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.3.0/firebase-app.js";
+        import { getAuth, getRedirectResult } from "https://www.gstatic.com/firebasejs/10.3.0/firebase-auth.js";
+
+        // Votre configuration Firebase
+        const firebaseConfig = {
+            apiKey: "AIzaSyBBimzONdvbR7yujr7NPK4SQWGGo2EfMuE",
+            authDomain: "www.astro-nomos.com",
+            projectId: "astronomos-ef1e7",
+            storageBucket: "astronomos-ef1e7.appspot.com",
+            messagingSenderId: "58453053128",
+            appId: "1:58453053128:web:977f164540c7d204639ffd",
+            measurementId: "G-R75EH3WQRF"
+        };
+
+        // Initialiser Firebase
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+
+        // Gérer le résultat de la redirection
+        getRedirectResult(auth)
+            .then((result) => {
+                if (result && result.user) {
+                    // L'utilisateur est connecté
+                    // Vous pouvez rediriger l'utilisateur vers votre application ou effectuer d'autres actions
+                    window.location.replace("/"); // Redirige vers la page d'accueil
+                } else {
+                    // Aucun résultat, peut-être une erreur
+                    console.error("Aucun résultat de redirection disponible.");
+                }
+            })
+            .catch((error) => {
+                // Gérer les erreurs
+                console.error("Erreur lors de la récupération du résultat de redirection :", error);
+            });
+    </script>
+</head>
+<body>
+    <p>Traitement de l'authentification, veuillez patienter...</p>
+</body>
+</html>
