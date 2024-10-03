@@ -22,7 +22,7 @@ class FirebaseAuthentication(authentication.BaseAuthentication):
                 firebase_credentials_b64 = os.getenv('FIREBASE_ADMIN_CREDENTIALS')
                 if not firebase_credentials_b64:
                     raise ValueError(
-                        "Les informations d'authentification Firebase ne sont pas définies dans les variables d'environnement.")
+                        f"Les informations d'authentification Firebase ne sont pas définies dans les variables d'environnement.")
 
                 # Décoder la chaîne Base64 pour obtenir le JSON
                 firebase_credentials_json = base64.b64decode(firebase_credentials_b64).decode('utf-8')
@@ -35,7 +35,7 @@ class FirebaseAuthentication(authentication.BaseAuthentication):
                 firebase_admin.initialize_app(cred)
             except Exception as e:
                 logger.error(f"Erreur lors de l'initialisation de Firebase Admin SDK: {e}")
-                raise exceptions.AuthenticationFailed('Failed to initialize Firebase Admin SDK')
+                raise exceptions.AuthenticationFailed(e)
 
         # Extraire l'en-tête d'authentification (Authorization: Bearer <token>)
         auth_header = request.META.get('HTTP_AUTHORIZATION')

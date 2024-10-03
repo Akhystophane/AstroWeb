@@ -1,5 +1,8 @@
 # utils.py
+import ast
 from datetime import datetime
+
+from openai import OpenAI
 
 from .main import AstrologicalChart
 from .Interpretation import get_birth_chart, get_transit_chart
@@ -9,7 +12,9 @@ def generate_birth_chart(birth_date, birth_time, birth_location):
     # Convertir les dates et heures en objets datetime si nécessaire
     # Obtenir la latitude et la longitude à partir du lieu de naissance
     latitude, longitude = get_coordinates_from_location(birth_location)
-
+    logger = logging.getLogger(__name__)
+    logger.debug("nogger.")
+    logger.debug(f"Prompt: {latitude}, Response: {longitude}")
     # Créer l'objet AstrologicalChart
     chart = AstrologicalChart(
         year=birth_date.year,
@@ -26,12 +31,32 @@ def generate_birth_chart(birth_date, birth_time, birth_location):
     print("generate_birth_chart", birth_chart_data)
     birth_chart = get_birth_chart(birth_chart_data)
 
-    return birth_chart
+    return birth_chart, latitude, longitude
+import logging
 
 def get_coordinates_from_location(location):
-    # Implémentez une fonction pour obtenir la latitude et la longitude à partir du lieu
-    # Vous pouvez utiliser une API externe ou une base de données
-    return (48.8566, 2.3522)  # Exemple pour Paris
+    prompt = f"""Tu dois me trouver les coordonées de ce lieu :{location}, ta réponse est uniquement un tuple de 2 nbr (latitude,
+longitude), si le lieu fourni est vraiment introuvable ta réponse est simplement : None"""
+    client = OpenAI()
+
+    completion = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": "Tu es un géographe informaticien."},
+            {"role": "user", "content": prompt}
+        ]
+    )
+
+    script_text = str(completion.choices[0].message.content)
+
+    if "None" in script_text:
+        return (48.8566, 2.3522)
+    else:
+        start = script_text.find("(")
+        end = script_text.rfind(")") + 1
+
+    coordinates = ast.literal_eval(script_text[start:end])
+    return coordinates  # Exemple pour Paris
 
 
 def generate_transit_chart(birth_date, birth_time, birth_location, transit_start_date, transit_end_date):

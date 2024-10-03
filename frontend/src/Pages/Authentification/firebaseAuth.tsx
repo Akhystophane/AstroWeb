@@ -6,10 +6,12 @@ import {
 import {signInAnonymously} from "firebase/auth";
 import { initializeApp } from "firebase/app";
 import { useEffect, useState } from "react";
-
+const authDomainUrl = process.env.NODE_ENV === 'production'
+  ? 'www.astro-nomos.com'
+  : 'astronomos-ef1e7.firebaseapp.com';
 const firebaseConfig = {
     apiKey: "AIzaSyBBimzONdvbR7yujr7NPK4SQWGGo2EfMuE",
-    authDomain: "www.astro-nomos.com",
+    authDomain: authDomainUrl,
     projectId: "astronomos-ef1e7",
     storageBucket: "astronomos-ef1e7.appspot.com",
     messagingSenderId: "58453053128",

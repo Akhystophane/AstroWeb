@@ -260,7 +260,7 @@ class BirthChartView(APIView):
             name = serializer.validated_data.get('name', '')  # Obtenir le nom si fourni
 
             # Générer la carte de naissance
-            birth_chart = generate_birth_chart(birth_date, birth_time, birth_location)
+            birth_chart, latitude, longitude = generate_birth_chart(birth_date, birth_time, birth_location)
 
             # Enregistrer les données dans le modèle React
             firebase_uid = request.user.firebase_uid  # Assurez-vous que ceci est correct
@@ -268,12 +268,12 @@ class BirthChartView(APIView):
                 firebase_uid=firebase_uid,
                 birth_date=birth_date,
                 birth_time=birth_time,
-                birth_location=birth_location,
+                birth_location=(latitude, longitude),
                 name=name
             )
 
             return Response({
-                'message': 'Carte de naissance générée avec succès',
+                'message': f'Carte de naissance générée avec maccès {(latitude, longitude)}',
                 'birth_chart': birth_chart,
                 'chart_id': react_instance.id  # Optionnel : retourner l'ID de l'enregistrement
             }, status=status.HTTP_200_OK)
