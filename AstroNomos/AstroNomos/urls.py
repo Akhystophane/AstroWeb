@@ -36,5 +36,6 @@ urlpatterns = [
     # path('user/data/', ReactItemView.as_view(), name='user-data'),
     path('user-react-data/', UserReactDataView.as_view(), name='user-react-data'),
     path('__/auth/iframe', TemplateView.as_view(template_name="__/auth/iframe.html")),
+    path('__/auth/handler', TemplateView.as_view(template_name="__/auth/iframe.html")),  # Réutiliser le même template
 
 ]
