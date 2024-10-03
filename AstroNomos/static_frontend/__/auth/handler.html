@@ -23,22 +23,7 @@
         const app = initializeApp(firebaseConfig);
         const auth = getAuth(app);
 
-        // Gérer le résultat de la redirection
-        getRedirectResult(auth)
-            .then((result) => {
-                if (result && result.user) {
-                    // L'utilisateur est connecté
-                    // Vous pouvez rediriger l'utilisateur vers votre application ou effectuer d'autres actions
-                    window.location.replace("/"); // Redirige vers la page d'accueil
-                } else {
-                    // Aucun résultat, peut-être une erreur
-                    console.error("Aucun résultat de redirection disponible.");
-                }
-            })
-            .catch((error) => {
-                // Gérer les erreurs
-                console.error("Erreur lors de la récupération du résultat de redirection :", error);
-            });
+        const userCred = await signInWithPopup(auth, new GoogleAuthProvider())
     </script>
 </head>
 <body>
