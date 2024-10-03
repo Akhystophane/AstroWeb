@@ -1,16 +1,63 @@
 import SolarSystemAnimation from '../components/solarSystemAnimation'
 import MenuNav from '../components/MenuNav'
+import { useEffect, useRef } from 'react';
+import { gsap } from 'gsap';
+
 
 const HeroSection = () => {
+  const titleRef = useRef(null);
+  const paragraphRef = useRef(null);
+
+  useEffect(() => {
+    // Animation de fade-in du haut vers le bas
+    gsap.fromTo(
+      titleRef.current,
+      {
+        opacity: 0,
+        y: -50, // Partie haute avant l'animation
+      },
+      {
+        opacity: 1,
+        y: 0, // À sa position normale
+        duration: 2,
+        ease: 'power2.out',
+      }
+    );
+
+    gsap.fromTo(
+      paragraphRef.current,
+      {
+        opacity: 0,
+        y: -50, // Partie haute avant l'animation
+      },
+      {
+        opacity: 1,
+        y: 0, // À sa position normale
+        duration: 2,
+        ease: 'power2.out',
+        delay: 0.5, // Légère différence pour un effet plus naturel
+      }
+    );
+
+    // Animation de clignotement pour le titre
+    gsap.to(titleRef.current, {
+      opacity: 0.5,
+      repeat: -1, // Répète l'animation infiniment
+      yoyo: true, // L'animation fait des allers-retours
+      duration: 1.2, // Durée d'une phase de clignotement
+      ease: 'power1.inOut',
+      delay: 1.5, // Clignotement après l'animation initiale
+    });
+  }, []);
   return (
     <div className='h-full w-full '>
       
         <MenuNav />
         <div className='w-full h-full '>
         
-        <h1 className='h1 mb-6 pb-2 '>Transforme ta vie grâce à l'Astrologie
+        <h1 ref={titleRef} className='h1 mb-6 pb-2 '>Transforme ta vie grâce à l'Astrologie
           </h1>
-          <p className='body-1 text-center max-w-3xl mx-auto mb-6
+          <p ref={paragraphRef} className='body-1 text-center max-w-3xl mx-auto mb-6
           text-n-14 lg:mb-5'>
               Libère ton potentiel grâce à Astronomos.
               Les secrets des astres n'ont jamais été aussi proches.

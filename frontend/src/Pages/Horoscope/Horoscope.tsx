@@ -3,7 +3,11 @@ import StarsBackground from '../../assets/StarsBackground.svg';
 import { useLocation } from "react-router-dom";
 import SunAnimation from "./components/SunAnimation";
 import Bottom from '../../assets/BirthChart/bottom.svg';
-import pic1 from '../../assets/BirthChart/pic1.svg';
+import pic1 from '../../assets/Horoscope/h_pic1.svg';
+import pic2 from '../../assets/Horoscope/h_pic2.svg';
+import pic3 from '../../assets/Horoscope/h_pic3.svg';
+import pic4 from '../../assets/Horoscope/h_pic4.svg';
+
 
 const Horoscope = () => {
   const location = useLocation();
@@ -32,19 +36,27 @@ const Horoscope = () => {
             <SunAnimation />
           </div>
           
-          {cards.map((card, index) => (
-        <div key={index} className="w-full h-full">
-        <h2  className="text-3xl mt-[4rem] font-extrabold text-center mb-8 bg-gradient-to-r from-gray-300 via-gray-500 to-gray-300 bg-clip-text text-transparent animate-pulse">
-        {card.title} <span className="text-black">🌠 😍</span>
-      </h2>
-      <Card
-          title={card.subtitle}
-          description={card.description}
-          imageUrl={pic1}
-        />
-        </div>
+          {cards.map((card, index) => {
+            // Sélectionner l'image en fonction de l'index
+            const images = [pic1, pic2, pic3, pic4];
+            const selectedImage = images[index % images.length]; // Rotation des images
 
-        ))}
+            return(
+              <div key={index} className="w-full h-full">
+              <h2  className="text-3xl mt-[4rem] font-extrabold text-center mb-8 bg-gradient-to-r from-gray-300 via-gray-500 to-gray-300 bg-clip-text text-transparent animate-pulse">
+              {card.title} <span className="text-black">🌠 😍</span>
+            </h2>
+            <Card
+                title={card.subtitle}
+                description={card.description}
+                imageUrl={selectedImage}
+              />
+              </div>
+            );
+          }
+
+
+        )}
 
       <div>
 
