@@ -15,10 +15,10 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path, include
+from django.urls import path, include, re_path
 from newsletter import views as newsletter_views
 
-from astrochart.views import ReactItemView, TransitChartView, BirthChartView, UserReactDataView, FrontendAppView
+from astrochart.views import ReactItemView, TransitChartView, BirthChartView, UserReactDataView, FrontendAppView, firebase_auth_proxy
 from django.views.generic import TemplateView
 
 
@@ -35,7 +35,8 @@ urlpatterns = [
     path('charts/transit/', TransitChartView.as_view(), name='transit-chart'),
     # path('user/data/', ReactItemView.as_view(), name='user-data'),
     path('user-react-data/', UserReactDataView.as_view(), name='user-react-data'),
-    path('__/auth/iframe', TemplateView.as_view(template_name="__/auth/iframe.html")),
-    path('__/auth/handler', TemplateView.as_view(template_name="__/auth/handler.html")),  # Réutiliser le même template
+    # path('__/auth/iframe', TemplateView.as_view(template_name="__/auth/iframe.html")),
+    # path('__/auth/handler', TemplateView.as_view(template_name="__/auth/handler.html")),  # Réutiliser le même template
+    re_path(r'^__/auth/(?P<path>.*)$', firebase_auth_proxy),
 
 ]

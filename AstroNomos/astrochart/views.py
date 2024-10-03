@@ -343,3 +343,50 @@ from django.views.generic import TemplateView
 
 class FrontendAppView(TemplateView):
     template_name = 'index.html'
+
+
+import requests
+from django.http import HttpResponse, HttpResponseBadRequest, StreamingHttpResponse
+from django.views.decorators.csrf import csrf_exempt
+from django.utils.decorators import method_decorator
+FIREBASE_AUTH_DOMAIN = 'https://astronomos-ef1e7.firebaseapp.com'
+
+@csrf_exempt  # Nécessaire pour permettre les requêtes POST sans jeton CSRF
+def firebase_auth_proxy(request, path):
+    # Construire l'URL cible
+    url = f'{FIREBASE_AUTH_DOMAIN}/__/auth/{path}'
+
+    # Préparer les paramètres de la requête
+    headers = {key: value for key, value in request.headers.items() if key != 'Host'}
+    data = request.body if request.method in ['POST', 'PUT', 'PATCH'] else None
+    params = request.GET.urlencode()
+    full_url = f'{url}?{params}' if params else url
+
+    # Faire la requête à Firebase
+    try:
+        response = requests.request(
+            method=request.method,
+            url=full_url,
+            headers=headers,
+            data=data,
+            cookies=request.COOKIES,
+            allow_redirects=False,
+            stream=True
+        )
+    except requests.RequestException as e:
+        return HttpResponseBadRequest(f'Error communicating with Firebase: {e}')
+
+    # Construire la réponse à retourner au client
+    django_response = StreamingHttpResponse(
+        response.raw,
+        status=response.status_code,
+        content_type=response.headers.get('Content-Type')
+    )
+
+    # Copier les en-têtes pertinents
+    excluded_headers = ['content-encoding', 'content-length', 'transfer-encoding', 'connection']
+    for header, value in response.headers.items():
+        if header.lower() not in excluded_headers:
+            django_response[header] = value
+
+    return django_response
