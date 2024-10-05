@@ -62,8 +62,8 @@ REST_FRAMEWORK = {'DEFAULT_AUTHENTICATION_CLASSES': ('astrochart.authentication.
                     'rest_framework.throttling.AnonRateThrottle',
                 ],
                 'DEFAULT_THROTTLE_RATES': {
-                    'user': '5/hour',  # Limite de 5 requêtes par heure pour les utilisateurs authentifiés
-                    'anon': '5/hour',  # Limite de 2 requêtes par heure pour les utilisateurs anonymes
+                    'user': '10/hour',  # Limite de 5 requêtes par heure pour les utilisateurs authentifiés
+                    'anon': '10/hour',  # Limite de 2 requêtes par heure pour les utilisateurs anonymes
                 }
 
 }

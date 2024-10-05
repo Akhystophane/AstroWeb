@@ -241,8 +241,16 @@ const HoroscopeSection = () => {
       </button>
     </form>
   );
+
+  const scrollToElement = (id: string) => {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
     useEffect(() => {
     if (loading) {
+      scrollToElement('transit_chart');
       document.body.classList.add('overflow-hidden'); // Empêche le scroll sur body
     } else {
       document.body.classList.remove('overflow-hidden'); // Permet le scroll
@@ -253,6 +261,8 @@ const HoroscopeSection = () => {
       document.body.classList.remove('overflow-hidden');
     };
   }, [loading]);
+
+
 
   return (
     <>
@@ -276,9 +286,11 @@ const HoroscopeSection = () => {
         />
         </div>
         {loading && (
+
               <>
               <div className="absolute top-[50%] left-1/2 transform -translate-x-1/2 sm:top-[20%] md:top-0 lg:top-0 w-full lg:w-[60%] h-full pointer-events-none z-40">
                 <SunAnimation rotationSpeed={3} />
+                
               </div>
 
             </>

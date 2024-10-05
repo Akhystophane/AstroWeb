@@ -1,15 +1,23 @@
 import Card from "../../components/Card";
 import StarsBackground from '../../assets/StarsBackground.svg';
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import SunAnimation from "./components/SunAnimation";
 import Bottom from '../../assets/BirthChart/bottom.svg';
 import pic1 from '../../assets/Horoscope/h_pic1.svg';
 import pic2 from '../../assets/Horoscope/h_pic2.svg';
 import pic3 from '../../assets/Horoscope/h_pic3.svg';
 import pic4 from '../../assets/Horoscope/h_pic4.svg';
+import { FaArrowLeft } from 'react-icons/fa'; // Icône flèche retour
+
 
 
 const Horoscope = () => {
+  const navigate = useNavigate();
+
+  // Fonction pour revenir à la page précédente
+  const handleGoBack = () => {
+    navigate(-1); // Retourne à la page précédente
+  };
   const location = useLocation();
   const transitChartData = location.state;
   //console.log(transitChartData);  // The transit data generated from the backend
@@ -29,9 +37,15 @@ const Horoscope = () => {
   return (
     <>
       <div className="w-full h-full mx-auto" style={{ backgroundImage: `url(${StarsBackground})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+      <button
+        onClick={handleGoBack}
+        className="absolute top-2 left-[2%] white hover:text-gray-800 focus:outline-none"
+      >
+        <FaArrowLeft size={24} />
+      </button>
         <div className="w-full h-full">
           <div className="text-center">
-            <h1 className='h1 mb-6 pb-2 pt-5'>Découvre ton Horscope Personnalisé du jour</h1>
+            <h1 className='h1 mb-6 pb-2 pt-8 px-'>Découvre ton Horscope Personnalisé du jour</h1>
             <span className="text-black text-6xl">🔮👇</span>
             <SunAnimation />
           </div>

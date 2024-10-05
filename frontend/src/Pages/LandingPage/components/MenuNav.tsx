@@ -34,8 +34,8 @@ const MenuNav = () => {
   }, [user]);
 
   return (
-    <div className='w-full h-full'>
-      <nav className="rounded-full mx-4 px-4 pt-5 pb-2 md:mb-20 shadow-lg">
+    <div className='w-full h-full   '>
+      <nav className=" opacity-100 bg-gradient-to-br from-purple-600 to-indigo-700 px-4 pt-2  pb-2 md:mb-2 shadow-lg">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <div className="flex-shrink-0">
             <a href="#birth_chart">

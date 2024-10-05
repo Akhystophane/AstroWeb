@@ -180,8 +180,15 @@ const BirthChartSection = () => {
     </form>
   );
 
-  useEffect(() => {
+  const scrollToElement = (id: string) => {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+    useEffect(() => {
     if (loading) {
+      scrollToElement('birth_chart');
       document.body.classList.add('overflow-hidden'); // Empêche le scroll sur body
     } else {
       document.body.classList.remove('overflow-hidden'); // Permet le scroll

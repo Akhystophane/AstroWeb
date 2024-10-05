@@ -14,7 +14,7 @@ const HeroSection = () => {
       titleRef.current,
       {
         opacity: 0,
-        y: -50, // Partie haute avant l'animation
+        y: -30, // Partie haute avant l'animation
       },
       {
         opacity: 1,
@@ -28,7 +28,7 @@ const HeroSection = () => {
       paragraphRef.current,
       {
         opacity: 0,
-        y: -50, // Partie haute avant l'animation
+        y: -30, // Partie haute avant l'animation
       },
       {
         opacity: 1,
@@ -55,9 +55,9 @@ const HeroSection = () => {
         <MenuNav />
         <div className='w-full h-full '>
         
-        <h1 ref={titleRef} className='h1 mb-6 pb-2 '>Transforme ta vie grâce à l'Astrologie
+        <h1 ref={titleRef} className='h1 mb-2 pb-2 pt-4'>Transforme ta vie grâce à l'Astrologie
           </h1>
-          <p ref={paragraphRef} className='body-1 text-center max-w-3xl mx-auto mb-6
+          <p ref={paragraphRef} className='body-1 text-center max-w-3xl mx-auto px-2 mb-6
           text-n-14 lg:mb-5'>
               Libère ton potentiel grâce à Astronomos.
               Les secrets des astres n'ont jamais été aussi proches.
@@ -67,10 +67,10 @@ const HeroSection = () => {
         <div className="flex justify-center items-center">
         <a 
           href="#birth_chart"
-          className="relative bg-purple-700 text-white py-2 px-4 rounded-lg shadow-lg hover:bg-gray-600 focus:outline-none"
+          className="relative bg-gradient-to-br from-purple-600 to-indigo-700 text-white py-2 px-4 rounded-lg shadow-lg hover:bg-gray-600 focus:outline-none"
         >
           <span className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300 rounded-lg"></span>
-          <span className="relative z-0">Découvrir</span>
+          <span className="relative z-0">👉 Découvrir 👀</span>
         </a>
       </div>
 
